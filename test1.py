@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # Streamlit app title
 st.title("Roller Coaster Data")
 # Read the CSV file into a DataFrame
-df = pd.read_csv(r"C:\Users\bbrown25\Desktop\rollercoaster data.csv")
+df = pd.read_csv(r"rollercoaster data.csv")
 st.dataframe(df)
 
 data_counts = df["Type"].value_counts()
