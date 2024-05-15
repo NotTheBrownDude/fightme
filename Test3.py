@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 st.title('Rollercoasters around the World')
 
-DATA_URL = r"C:\temp\rollercoaster data.csv"
+DATA_URL = r"rollercoaster data.csv"
 
 @st.cache_data
 def load_data(nrows):
