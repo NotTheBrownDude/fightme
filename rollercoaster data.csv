@@ -1,0 +1,637 @@
+Name,Amusement Park,Type,Design,Status,Opened,City,Region,Country,Make,Speed (mph)
+Formula Rossa,Ferrari World Abu Dhabi,Steel,Sit Down,Operating,11/4/2010,Abu Dhabi,Abu Dhabi,United Arab Emirates,Intamin Amusement Rides,149.1
+Kingda Ka,Six Flags Great Adventure,Steel,Sit Down,Operating,5/21/2005,Jackson,New Jersey,United States,Intamin Amusement Rides,128
+Top Thrill 2,Cedar Point,Steel,Sit Down,SBNO,5/4/2003,Sandusky,Ohio,United States,Intamin Amusement Rides,120
+Do-Dodonpa,Fuji-Q Highland,Steel,Sit Down,SBNO,12/21/2001,Fujiyoshida,Yamanashi,Japan,S&S Worldwide,111.8
+Red Force,Ferrari Land,Steel,Sit Down,Operating,4/7/2017,Tarragona,Catalonia,Spain,Intamin Amusement Rides,111.8
+Left,Six Flags Magic Mountain,Steel,Sit Down,Operating,3/15/1997,Valencia,California,United States,Intamin Amusement Rides,100
+Tower of Terror II,Dreamworld,Steel,Sit Down,Removed,1997,Coomera,Queensland,Australia,Intamin Amusement Rides,100
+Ring Racer,Nürburgring,Steel,Sit Down,SBNO,10/31/2013,Nürburg,Rhineland-Palatinate,Germany,S&S Worldwide,99.4
+Steel Dragon 2000,Nagashima Spa Land,Steel,Sit Down,Operating,8/1/2000,Kuwana,Mie,Japan,"D.H. Morgan Manufacturing, Inc.",95
+Fury 325,Carowinds,Steel,Sit Down,Operating,3/28/2015,Charlotte,North Carolina,United States,Bolliger & Mabillard,95
+Millennium Force,Cedar Point,Steel,Sit Down,Operating,5/13/2000,Sandusky,Ohio,United States,Intamin Amusement Rides,93
+Leviathan,Canada's Wonderland,Steel,Sit Down,Operating,5/6/2012,Vaughan,Ontario,Canada,Bolliger & Mabillard,92
+Orion,Kings Island,Steel,Sit Down,Operating,7/2/2020,Mason,Ohio,United States,Bolliger & Mabillard,91
+Intimidator 305,Kings Dominion,Steel,Sit Down,Operating,4/2/2010,Doswell,Virginia,United States,Intamin Amusement Rides,90
+Hyperion,Energylandia,Steel,Sit Down,Operating,7/14/2018,Zator,Małopolskie,Poland,Intamin Amusement Rides,88.2
+Titan,Six Flags Over Texas,Steel,Sit Down,Operating,4/27/2001,Arlington,Texas,United States,Giovanola,85
+Goliath,Six Flags Magic Mountain,Steel,Sit Down,Operating,2/11/2000,Valencia,California,United States,Giovanola,85
+Phantom's Revenge,Kennywood,Steel,Sit Down,Operating,1991,West Mifflin,Pennsylvania,United States,Arrow Dynamics,85
+Coaster Through the Clouds,Nanchang Sunac Land,Steel,Sit Down,Operating,5/28/2016,Nanchang,Jiangxi,China,Intamin Amusement Rides,84.5
+Launch Roller Coaster,Sun Tzu Cultural Park,Steel,Sit Down,Operating,2020,Dongying,Shandong,China,S&S Worldwide,83.9
+Furius Baco,PortAventura Park,Steel,Wing,Operating,6/5/2007,Tarragona,Catalonia,Spain,Intamin Amusement Rides,83.9
+Shambhala,PortAventura Park,Steel,Sit Down,Operating,5/12/2012,Tarragona,Catalonia,Spain,Bolliger & Mabillard,83.3
+Extreme Rusher,Happy Valley,Steel,Sit Down,Operating,5/14/2011,Chaoyang,Beijing,China,S&S Worldwide,83
+Bullet Coaster,Happy Valley,Steel,Sit Down,Operating,7/28/2012,Shenzhen,Guangdong,China,S&S Worldwide,83
+OCT Thrust SSC1000,Happy Valley,Steel,Sit Down,Operating,3/8/2014,Wuhan,Hubei,China,S&S Worldwide,83
+Xcelerator,Knott's Berry Farm,Steel,Sit Down,Operating,6/22/2002,Buena Park,California,United States,Intamin Amusement Rides,82
+Fujiyama,Fuji-Q Highland,Steel,Sit Down,Operating,Jul-96,Fujiyoshida,Yamanashi,Japan,Togo,80.8
+Yukon Striker,Canada's Wonderland,Steel,Sit Down,Operating,5/3/2019,Vaughan,Ontario,Canada,Bolliger & Mabillard,80.8
+Thunder Dolphin,Tokyo Dome City,Steel,Sit Down,Operating,5/1/2003,Bunkyo,Tokyo,Japan,Intamin Amusement Rides,80.8
+Beyond the Cloud,Suzhou Amusement Land Forest World,Steel,Sit Down,Operating,22-Jul,Suzhou,Jiangsu,China,Mack Rides GmbH & Co KG,80.5
+Zaturn,Space World,Steel,Sit Down,Relocated,4/29/2006,Kitakyushu,Fukuoka,Japan,Intamin Amusement Rides,80.3
+unknown,Golden City,Steel,Sit Down,In Storage,2018,Venyovsky,Tula,Russia,Intamin Amusement Rides,80.3
+Desperado,Buffalo Bill's Resort & Casino,Steel,Sit Down,SBNO,1994,Primm,Nevada,United States,Arrow Dynamics,80
+Nitro,Six Flags Great Adventure,Steel,Sit Down,Operating,4/7/2001,Jackson,New Jersey,United States,Bolliger & Mabillard,80
+Diamondback,Kings Island,Steel,Sit Down,Operating,4/18/2009,Mason,Ohio,United States,Bolliger & Mabillard,80
+HyperSonic XLC,Kings Dominion,Steel,Sit Down,Removed,3/24/2001,Doswell,Virginia,United States,S&S Worldwide,80
+Stealth,Thorpe Park,Steel,Sit Down,Operating,3/15/2006,Surrey,England,United Kingdom,Intamin Amusement Rides,80
+Hyperia,Thorpe Park,Steel,Sit Down,Under Construction,2024,Surrey,England,United Kingdom,Mack Rides GmbH & Co KG,80
+Silver Star,Europa Park,Steel,Sit Down,Operating,3/23/2002,Rust,Baden-Württemberg,Germany,Bolliger & Mabillard,78.9
+Schwur des Kärnan,Hansa-Park,Steel,Sit Down,Operating,7/1/2015,Sierksdorf,Schleswig-Holstein,Germany,Gerstlauer Amusement Rides GmbH,78.9
+Spitfire,Six Flags Qiddiya,Steel,Sit Down,Under Construction,unknown,Al Muzahimiyah,Ar Riyadh,Saudi Arabia,Intamin Amusement Rides,78.9
+Son Of Beast,Kings Island,Wood,Sit Down,Removed,5/26/2000,Mason,Ohio,United States,,78.4
+Eejanaika,Fuji-Q Highland,Steel,Wing,Operating,7/19/2006,Fujiyoshida,Yamanashi,Japan,S&S Worldwide,78.3
+Dinoconda,China Dinosaurs Park,Steel,Wing,Operating,4/29/2012,Changzhou,Jiangsu,China,S&S Worldwide,78.3
+Maxx Force,Six Flags Great America,Steel,Sit Down,Operating,7/4/2019,Gurnee,Illinois,United States,S&S Worldwide,78
+Soaring with Dragon,Hefei Sunac Land,Steel,Sit Down,Operating,9/24/2016,Hefei,Anhui,China,Intamin Amusement Rides,77.7
+Superman the Ride,Six Flags New England,Steel,Sit Down,Operating,5/5/2000,Agawam,Massachusetts,United States,Intamin Amusement Rides,77
+Behemoth,Canada's Wonderland,Steel,Sit Down,Operating,5/4/2008,Vaughan,Ontario,Canada,Bolliger & Mabillard,77
+Candymonium,Hersheypark,Steel,Sit Down,Operating,7/3/2020,Hershey,Pennsylvania,United States,Bolliger & Mabillard,76
+Iron Gwazi,Busch Gardens Tampa,Steel,Sit Down,Operating,3/11/2022,Tampa,Florida,United States,Rocky Mountain Construction,76
+X2,Six Flags Magic Mountain,Steel,Wing,Operating,1/12/2002,Valencia,California,United States,Arrow Dynamics,76
+Zadra,Energylandia,Steel,Sit Down,Operating,8/22/2019,Zator,Małopolskie,Poland,Rocky Mountain Construction,75.2
+Mamba,Worlds of Fun,Steel,Sit Down,Operating,4/18/1998,Kansas City,Missouri,United States,"D.H. Morgan Manufacturing, Inc.",75
+Steel Force,Dorney Park & Wildwater Kingdom,Steel,Sit Down,Operating,5/30/1997,Allentown,Pennsylvania,United States,"D.H. Morgan Manufacturing, Inc.",75
+Intimidator,Carowinds,Steel,Sit Down,Operating,3/27/2010,Charlotte,North Carolina,United States,Bolliger & Mabillard,75
+Steel Curtain,Kennywood,Steel,Sit Down,Operating,7/13/2019,West Mifflin,Pennsylvania,United States,S&S Worldwide,75
+Skyrush,Hersheypark,Steel,Sit Down,Operating,5/26/2012,Hershey,Pennsylvania,United States,Intamin Amusement Rides,75
+Valravn,Cedar Point,Steel,Sit Down,Operating,5/7/2016,Sandusky,Ohio,United States,Bolliger & Mabillard,75
+Storm Runner,Hersheypark,Steel,Sit Down,Operating,5/8/2004,Hershey,Pennsylvania,United States,Intamin Amusement Rides,75
+Superman el Último Escape,Six Flags Mexico,Steel,Sit Down,Operating,11/19/2004,Mexico City,Mexico City,Mexico,"D.H. Morgan Manufacturing, Inc.",74.6
+Flying Aces,Ferrari World Abu Dhabi,Steel,Sit Down,Operating,2/24/2016,Abu Dhabi,Abu Dhabi,United Arab Emirates,Intamin Amusement Rides,74.6
+Expedition GeForce,Holiday Park,Steel,Sit Down,Operating,6/18/2001,Hassloch,Rhineland-Palatinate,Germany,Intamin Amusement Rides,74.6
+Steel Vengeance,Cedar Point,Steel,Sit Down,Operating,5/5/2018,Sandusky,Ohio,United States,Rocky Mountain Construction,74
+Big One,Blackpool Pleasure Beach,Steel,Sit Down,Operating,5/28/1994,Lancashire,England,United Kingdom,Arrow Dynamics,74
+Wild Thing,Valleyfair!,Steel,Sit Down,Operating,5/11/1996,Shakopee,Minnesota,United States,"D.H. Morgan Manufacturing, Inc.",74
+Legendary Twin Dragon,Chongqing Sunac Land,Steel,Inverted,Operating,2/3/2021,Shapingba,Chongqing,China,Intamin Amusement Rides,73.9
+Falcon,Wuxi Sunac Land,Steel,Wing,Operating,6/29/2019,Wuxi,Jiangsu,China,Bolliger & Mabillard,73.3
+Iron Rattler,Six Flags Qiddiya,Steel,Sit Down,Under Construction,unknown,Al Muzahimiyah,Ar Riyadh,Saudi Arabia,Vekoma,73.3
+Ride of Steel,Six Flags Darien Lake,Steel,Sit Down,Operating,5/15/1999,Darien Center,New York,United States,Intamin Amusement Rides,73
+Superman - Ride Of Steel,Six Flags America,Steel,Sit Down,Operating,5/13/2000,Upper Marlboro,Maryland,United States,Intamin Amusement Rides,73
+Raging Bull,Six Flags Great America,Steel,Sit Down,Operating,5/1/1999,Gurnee,Illinois,United States,Bolliger & Mabillard,73
+Apollo's Chariot,Busch Gardens Williamsburg,Steel,Sit Down,Operating,3/27/1999,Williamsburg,Virginia,United States,Bolliger & Mabillard,73
+Mako,SeaWorld Orlando,Steel,Sit Down,Operating,6/10/2016,Orlando,Florida,United States,Bolliger & Mabillard,73
+Lightning Rod,Dollywood,Steel,Sit Down,Operating,6/13/2016,Pigeon Forge,Tennessee,United States,Rocky Mountain Construction,73
+Pantheon,Busch Gardens Williamsburg,Steel,Sit Down,Operating,3/25/2022,Williamsburg,Virginia,United States,Intamin Amusement Rides,73
+Taron,Phantasialand,Steel,Sit Down,Operating,6/30/2016,Brühl,North Rhine-Westphalia,Germany,Intamin Amusement Rides,72.7
+Wicked Twister,Cedar Point,Steel,Inverted,Removed,5/5/2002,Sandusky,Ohio,United States,Intamin Amusement Rides,72.1
+Magnum XL-200,Cedar Point,Steel,Sit Down,Operating,5/6/1989,Sandusky,Ohio,United States,Arrow Dynamics,72
+Goliath,Six Flags Great America,Wood,Sit Down,Operating,6/19/2014,Gurnee,Illinois,United States,Rocky Mountain Construction,72
+Titan MAX,Space World,Steel,Sit Down,Removed,3/5/1994,Kitakyushu,Fukuoka,Japan,Arrow Dynamics,71.5
+DC Rivals HyperCoaster,Warner Bros. Movie World,Steel,Sit Down,Operating,9/22/2017,Gold Coast,Queensland,Australia,Mack Rides GmbH & Co KG,71.5
+Flash,Lewa Adventure,Steel,Sit Down,Operating,1/1/2016,Xianyang,Shaanxi,China,Mack Rides GmbH & Co KG,71.5
+Hyper Coaster,Land of Legends Theme Park,Steel,Sit Down,Operating,2018,Antalya,Antalya,Turkey,Mack Rides GmbH & Co KG,71.5
+Wildfire,Kolmården,Wood,Sit Down,Operating,6/28/2016,Norrköping,Östergötland,Sweden,Rocky Mountain Construction,71.5
+Wrath Of Zeus,VinWonders,Steel,Sit Down,Operating,6/1/2020,Phú Quốc,Kiên Giang,Vietnam,Vekoma,71.5
+unknown,Ocean Flower Island Fairyland,Steel,Sit Down,Under Construction,2023,Danzhou,Hainan,China,Vekoma,71.5
+Griffon,Busch Gardens Williamsburg,Steel,Sit Down,Operating,5/18/2007,Williamsburg,Virginia,United States,Bolliger & Mabillard,71
+Kondaa,Walibi Belgium,Steel,Sit Down,Operating,5/8/2021,Walloon Brabant,Wallonia,Belgium,Intamin Amusement Rides,70.2
+VelociCoaster,Universal Studios Islands of Adventure,Steel,Sit Down,Operating,6/10/2021,Orlando,Florida,United States,Intamin Amusement Rides,70
+Goliath,Six Flags Over Georgia,Steel,Sit Down,Operating,4/1/2006,Austell,Georgia,United States,Bolliger & Mabillard,70
+Maverick,Cedar Point,Steel,Sit Down,Operating,5/26/2007,Sandusky,Ohio,United States,Intamin Amusement Rides,70
+El Toro,Six Flags Great Adventure,Wood,Sit Down,Operating,6/12/2006,Jackson,New Jersey,United States,Intamin Amusement Rides,70
+Superman Krypton Coaster,Six Flags Fiesta Texas,Steel,Sit Down,Operating,3/11/2000,San Antonio,Texas,United States,Bolliger & Mabillard,70
+Viper,Six Flags Magic Mountain,Steel,Sit Down,Operating,4/7/1990,Valencia,California,United States,Arrow Dynamics,70
+Iron Rattler,Six Flags Fiesta Texas,Steel,Sit Down,Operating,5/25/2013,San Antonio,Texas,United States,Rocky Mountain Construction,70
+SheiKra,Busch Gardens Tampa,Steel,Sit Down,Operating,5/21/2005,Tampa,Florida,United States,Bolliger & Mabillard,70
+"Volcano, The Blast Coaster",Kings Dominion,Steel,Inverted,Removed,8/3/1998,Doswell,Virginia,United States,Intamin Amusement Rides,70
+Cannibal,Lagoon,Steel,Sit Down,Operating,7/2/2015,Farmington,Utah,United States,ART Engineering GmbH,70
+Full Throttle,Six Flags Magic Mountain,Steel,Sit Down,Operating,6/22/2013,Valencia,California,United States,Premier Rides,70
+Speed - The Ride,Nascar Café,Steel,Sit Down,Relocated,4/28/2000,Las Vegas,Nevada,United States,Premier Rides,70
+unknown,"London, Las Vegas",Steel,Sit Down,In Storage,2012,Las Vegas,Nevada,United States,Premier Rides,70
+Mr. Freeze,Six Flags Over Texas,Steel,Sit Down,Operating,1998,Arlington,Texas,United States,Premier Rides,70
+Mr. Freeze Reverse Blast,Six Flags St. Louis,Steel,Sit Down,Operating,Apr-98,Eureka,Missouri,United States,Premier Rides,70
+Flash: Vertical Velocity,Six Flags Great America,Steel,Inverted,Operating,5/18/2001,Gurnee,Illinois,United States,Intamin Amusement Rides,70
+Screaming Condor,Leofoo Village Theme Park,Steel,Inverted,Operating,2001,Guanxi,Hsinchu,Taiwan,Intamin Amusement Rides,70
+Steel Venom,Valleyfair!,Steel,Inverted,Operating,5/17/2003,Shakopee,Minnesota,United States,Intamin Amusement Rides,70
+Possessed,Dorney Park & Wildwater Kingdom,Steel,Inverted,Operating,8-May,Allentown,Pennsylvania,United States,Intamin Amusement Rides,70
+Steel Venom,Geauga Lake & Wildwater Kingdom,Steel,Inverted,Relocated,5/5/2000,Aurora,Ohio,United States,Intamin Amusement Rides,70
+Dive Coaster,Chimelong Paradise,Steel,Sit Down,Operating,1/21/2008,Guangzhou,Guangdong,China,Bolliger & Mabillard,69.6
+Bandit,Yomiuriland,Steel,Sit Down,Operating,3/25/1988,Inagi,Tokyo,Japan,Togo,68.4
+Colossos - Kampf der Giganten,Heide Park Resort,Wood,Sit Down,Operating,4/13/2001,Soltau,Lower Saxony,Germany,Intamin Amusement Rides,68.4
+iSpeed,Mirabilandia,Steel,Sit Down,Operating,5/20/2009,Savio,Emilia-Romagna,Italy,Intamin Amusement Rides,68.4
+Goliath,La Ronde,Steel,Sit Down,Operating,5/13/2006,Montréal,Québec,Canada,Bolliger & Mabillard,68.3
+Red Fire,Korsan Adasi,Steel,Sit Down,Operating,7/8/2015,Istanbul,Istanbul,Turkey,Intamin Amusement Rides,68.3
+Diving Machine G5,Janfusun Fancyworld,Steel,Sit Down,Operating,3/29/2000,Koo-Kung Hsiang,Yunlin County,Taiwan,Bolliger & Mabillard,68.3
+Nefeskesen,Vialand,Steel,Sit Down,Operating,4/1/2014,Istanbul,Istanbul,Turkey,Intamin Amusement Rides,68.3
+Banshee,Kings Island,Steel,Inverted,Operating,4/18/2014,Mason,Ohio,United States,Bolliger & Mabillard,68
+Great American Scream Machine,Six Flags Great Adventure,Steel,Sit Down,Removed,1989,Jackson,New Jersey,United States,Arrow Dynamics,68
+Outlaw Run,Silver Dollar City,Wood,Sit Down,Operating,3/15/2013,Branson,Missouri,United States,Rocky Mountain Construction,68
+Oblivion,Alton Towers,Steel,Sit Down,Operating,3/14/1998,Staffordshire,England,United Kingdom,Bolliger & Mabillard,68
+Parrot Coaster,Chimelong Ocean Kingdom,Steel,Wing,Operating,1/25/2014,Zhuhai,Guangdong,China,Bolliger & Mabillard,67.1
+Whale Breaking the Sky Roller Coaster,Fuli Ocean Happy World,Steel,Sit Down,Operating,2023,Lingshui,Hainan,China,Intamin Amusement Rides,67.1
+Big Air,E-DA Theme Park,Steel,Sit Down,Operating,10-Dec,Dashu Township,Kaohsiung,Taiwan,Vekoma,67.1
+unknown,Sunac Cultural Tourism City,Steel,Sit Down,Under Construction,2024,Jiaxing,Zhejiang,China,Mack Rides GmbH & Co KG,67.1
+Voyage,Holiday World,Wood,Sit Down,Operating,5/6/2006,Santa Claus,Indiana,United States,,67
+Big Apple Coaster,"New York, New York Hotel & Casino",Steel,Sit Down,Operating,1/3/1997,Las Vegas,Nevada,United States,Togo,67
+GateKeeper,Cedar Point,Steel,Wing,Operating,5/11/2013,Sandusky,Ohio,United States,Bolliger & Mabillard,67
+Alpengeist,Busch Gardens Williamsburg,Steel,Inverted,Operating,3/22/1997,Williamsburg,Virginia,United States,Bolliger & Mabillard,67
+Incredible Hulk,Universal Studios Islands of Adventure,Steel,Sit Down,Operating,5/28/1999,Orlando,Florida,United States,Bolliger & Mabillard,67
+Hakugei,Nagashima Spa Land,Steel,Sit Down,Operating,3/28/2019,Kuwana,Mie,Japan,Rocky Mountain Construction,66.5
+Toutatis,Parc Astérix,Steel,Sit Down,Operating,4/8/2023,Plailly,Hauts-de-France,France,Intamin Amusement Rides,66.5
+Boss,Six Flags St. Louis,Wood,Sit Down,Operating,4/29/2000,Eureka,Missouri,United States,"Custom Coasters International, Inc.",66.3
+Fury,Bobbejaanland,Steel,Sit Down,Operating,6/24/2019,Antwerp,Flemish Region,Belgium,Gerstlauer Amusement Rides GmbH,66.2
+Red,Six Flags Great America,Wood,Sit Down,Operating,5/23/1981,Gurnee,Illinois,United States,Intamin Amusement Rides,66
+Wildfire,Silver Dollar City,Steel,Sit Down,Operating,4/4/2001,Branson,Missouri,United States,Bolliger & Mabillard,66
+Goliath,Walibi Holland,Steel,Sit Down,Operating,3/29/2002,Biddinghuizen,Flevoland,Netherlands,Intamin Amusement Rides,65.9
+Taiga,Linnanmäki,Steel,Sit Down,Operating,6/18/2019,Helsinki,Uusimaa,Finland,Intamin Amusement Rides,65.9
+Magic Loop Roller Coaster,Altai Amusement Park,Steel,Sit Down,Removed,2015,Hohhot,Nei Mongol,China,Beijing Shibaolai Amusement Equipment,65.3
+Magic Ring Vertical Coaster,Chuanlord Holiday Manor,Steel,Sit Down,Operating,10/31/2013,Foshan,Guangdong,China,Beijing Shibaolai Amusement Equipment,65.3
+BuzzSaw,Dreamworld,Steel,Sit Down,Relocated,9/17/2011,Coomera,Queensland,Australia,Maurer Rides GmbH,65.3
+Clouds of Fairyland,Joyland,Steel,Sit Down,Operating,8/5/2011,Changzhou,Jiangsu,China,Maurer Rides GmbH,65.3
+Hidden Anaconda,Happy Valley,Steel,Sit Down,Operating,4/29/2012,Wuhan,Hubei,China,Maurer Rides GmbH,65.3
+Project Zero,Gumbuya World,Steel,Sit Down,Operating,12/23/2022,Tynong ,Victoria,Australia,Maurer Rides GmbH,65.3
+Sky Wheel,Skyline Park,Steel,Sit Down,Operating,4-Oct,Bad Wörishofen,Bavaria,Germany,Maurer Rides GmbH,65.3
+Terror Twister,Nantong Adventure Land,Steel,Sit Down,Operating,4/29/2013,Nantong,Jiangsu,China,Maurer Rides GmbH,65.3
+Terror Twister,Fantawild Dreamland,Steel,Sit Down,Operating,5/19/2015,Xiamen,Fujian,China,Maurer Rides GmbH,65.3
+Terror Twister,Fantawild Adventure,Steel,Sit Down,Operating,10/1/2012,Zhengzhou,Henan,China,Maurer Rides GmbH,65.3
+Ukko,Linnanmäki,Steel,Sit Down,Operating,5/27/2011,Helsinki,Uusimaa,Finland,Maurer Rides GmbH,65.3
+X Coaster,Magic Springs Theme and Water Park,Steel,Sit Down,Operating,5/27/2006,Hot Springs,Arkansas,United States,Maurer Rides GmbH,65.3
+Steel Taipan,Dreamworld,Steel,Sit Down,Operating,12/14/2021,Coomera,Queensland,Australia,Mack Rides GmbH & Co KG,65.2
+Hot Wheels Nitro,Imagicaa,Steel,Sit Down,Operating,13-Oct,Khopoli,Maharashtra,India,Bolliger & Mabillard,65.2
+Valkyria,Liseberg,Steel,Sit Down,Operating,8/10/2018,Gothenburg,Västra Götaland,Sweden,Bolliger & Mabillard,65.2
+Abismo,Parque de Atracciones de Madrid,Steel,Sit Down,Operating,6/27/2006,Madrid,Community of Madrid,Spain,Maurer Rides GmbH,65.2
+Through the Ring,Dragon Valley Theme Park,Steel,Sit Down,Operating,2021,Nanjing,Jiangsu,China,Beijing Shibaolai Amusement Equipment,65.2
+unknown,Visionland,Steel,Sit Down,Operating,1/18/2020,Changde,Hunan,China,Beijing Shibaolai Amusement Equipment,65.2
+Mean Streak,Cedar Point,Wood,Sit Down,Removed,5/11/1991,Sandusky,Ohio,United States,Dinn Corporation,65
+Rattler,Six Flags Fiesta Texas,Wood,Sit Down,Removed,3/14/1992,San Antonio,Texas,United States,Roller Coaster Corporation of America,65
+Riddler's Revenge,Six Flags Magic Mountain,Steel,Stand Up,Operating,4/4/1998,Valencia,California,United States,Bolliger & Mabillard,65
+Dominator,Geauga Lake & Wildwater Kingdom,Steel,Sit Down,Relocated,5/5/2000,Aurora,Ohio,United States,Bolliger & Mabillard,65
+Dominator,Kings Dominion,Steel,Sit Down,Operating,5/24/2008,Doswell,Virginia,United States,Bolliger & Mabillard,65
+New Texas Giant,Six Flags Over Texas,Steel,Sit Down,Operating,4/22/2011,Arlington,Texas,United States,Rocky Mountain Construction,65
+Kraken,SeaWorld Orlando,Steel,Sit Down,Operating,6/1/2000,Orlando,Florida,United States,Bolliger & Mabillard,65
+Dragon Khan,PortAventura Park,Steel,Sit Down,Operating,5/2/1995,Tarragona,Catalonia,Spain,Bolliger & Mabillard,65
+Hercules,Dorney Park & Wildwater Kingdom,Wood,Sit Down,Removed,5/6/1989,Allentown,Pennsylvania,United States,Dinn Corporation,65
+Medusa,Six Flags Discovery Kingdom,Steel,Sit Down,Operating,3/18/2000,Vallejo,California,United States,Bolliger & Mabillard,65
+Shockwave,Six Flags Great America,Steel,Sit Down,Removed,6/3/1988,Gurnee,Illinois,United States,Arrow Dynamics,65
+"Hollywood Rip, Ride, Rockit",Universal Studios Florida,Steel,Sit Down,Operating,2009,Orlando,Florida,United States,Maurer Rides GmbH,65
+Dragon's Run,Dragon Park,Steel,Sit Down,Operating,1/25/2017,Hạ Long,Quảng Ninh,Vietnam,Bolliger & Mabillard,65
+Time Machine,Freestyle Music Park,Steel,Sit Down,Relocated,4/15/2008,Myrtle Beach,South Carolina,United States,Bolliger & Mabillard,65
+Steel Eel,SeaWorld San Antonio,Steel,Sit Down,Operating,3/6/1999,San Antonio,Texas,United States,"D.H. Morgan Manufacturing, Inc.",65
+Monster,Adventureland,Steel,Sit Down,Operating,6/4/2016,Altoona,Iowa,United States,Gerstlauer Amusement Rides GmbH,65
+Batman,Six Flags Great Adventure,Steel,Sit Down,Relocated,1998,Jackson,New Jersey,United States,Premier Rides,65
+Batman,Beto Carrero World,Steel,Sit Down,Removed,unknown,Penha,Santa Catarina,Brazil,Premier Rides,65
+Flash: Vertical Velocity,Six Flags Discovery Kingdom,Steel,Inverted,Operating,6/8/2001,Vallejo,California,United States,Intamin Amusement Rides,65
+Junker,PowerPark,Steel,Sit Down,Operating,5/30/2015,Kauhava,Southern Ostrobothnia,Finland,Gerstlauer Amusement Rides GmbH,64.9
+Beast,Kings Island,Wood,Sit Down,Operating,4/14/1979,Mason,Ohio,United States,,64.8
+T Express,Everland,Wood,Sit Down,Operating,3/14/2008,Yongin-si,Gyeonggi-do,South Korea,Intamin Amusement Rides,64.6
+Katun,Mirabilandia,Steel,Inverted,Operating,4/1/2000,Savio,Emilia-Romagna,Italy,Bolliger & Mabillard,64.6
+Batman Gotham City Escape,Parque Warner Madrid,Steel,Sit Down,Operating,5/13/2023,Madrid,Community of Madrid,Spain,Intamin Amusement Rides,64.6
+Powder Keg: A Blast in the Wilderness,Silver Dollar City,Steel,Sit Down,Operating,1999,Branson,Missouri,United States,Premier Rides,64
+ArieForce One,Fun Spot America Atlanta,Steel,Sit Down,Operating,3/31/2023,Fayetteville,Georgia,United States,Rocky Mountain Construction,64
+Montezum,Hopi Hari,Wood,Sit Down,Operating,1999,Vinhedo,São Paulo,Brazil,Roller Coaster Corporation of America,64
+Flying Apsaras in Western Region,Happy Valley,Steel,Sit Down,Operating,2/10/2018,Chengdu,Sichuan,China,Bolliger & Mabillard,64
+Iron Menace,Dorney Park & Wildwater Kingdom,Steel,Sit Down,Under Construction,2024,Allentown,Pennsylvania,United States,Bolliger & Mabillard,64
+Krake,Heide Park Resort,Steel,Sit Down,Operating,4/16/2011,Soltau,Lower Saxony,Germany,Bolliger & Mabillard,64
+GaleForce,Playland's Castaway Cove,Steel,Sit Down,Operating,5/26/2017,Ocean City,New Jersey,United States,S&S Worldwide,64
+Decepticoaster,Universal Studios Beijing,Steel,Sit Down,Operating,9/20/2021,Tongzhou,Beijing,China,Bolliger & Mabillard,63.8
+White Cyclone,Nagashima Spa Land,Wood,Sit Down,Removed,3/20/1994,Kuwana,Mie,Japan,Intamin Amusement Rides,63.4
+Crouching Tiger Hidden Dragon,Yanji Dinosaur Kingdom,Steel,Sit Down,Operating,7/12/2022,Yanbian,Jilin,China,Jinma Rides,63.4
+Vertical Roller Coaster,Great Xingdong Tourist World,Steel,Sit Down,Operating,2018,Anshun,Guizhou,China,Jinma Rides,63.4
+Desert Race,Heide Park Resort,Steel,Sit Down,Operating,5/15/2007,Soltau,Lower Saxony,Germany,Intamin Amusement Rides,63.4
+Turbo Track,Ferrari World Abu Dhabi,Steel,Sit Down,Operating,3/29/2017,Abu Dhabi,Abu Dhabi,United Arab Emirates,Intamin Amusement Rides,63.4
+Chang,Kentucky Kingdom,Steel,Stand Up,Relocated,4/4/1997,Louisville,Kentucky,United States,Bolliger & Mabillard,63
+Green Lantern,Six Flags Great Adventure,Steel,Stand Up,Operating,5/25/2011,Jackson,New Jersey,United States,Bolliger & Mabillard,63
+Scream!,Six Flags Magic Mountain,Steel,Sit Down,Operating,4/12/2003,Valencia,California,United States,Bolliger & Mabillard,63
+Tennessee Tornado,Dollywood,Steel,Sit Down,Operating,4/17/1999,Pigeon Forge,Tennessee,United States,Arrow Dynamics,63
+Speed,Energylandia,Steel,Sit Down,Operating,4/2/2018,Zator,Małopolskie,Poland,Intamin Amusement Rides,62.8
+Blu Power,Tetysblu Theme Park,Steel,Sit Down,Operating,8/26/2021,Munaily District,Mangistau,Kazakhstan,Mack Rides GmbH & Co KG,62.8
+Giant Splash,Lotte World Adventure Busan - Magic Forest,Steel,Sit Down,Operating,3/31/2022,Gijang,Busan,South Korea,Mack Rides GmbH & Co KG,62.8
+Power Splash,Happy Valley,Steel,Sit Down,Operating,10/2/2019,Shenzhen,Guangdong,China,Mack Rides GmbH & Co KG,62.8
+Pulsar,Walibi Belgium,Steel,Sit Down,Operating,6/4/2016,Walloon Brabant,Wallonia,Belgium,Mack Rides GmbH & Co KG,62.8
+Python in Bamboo Forest,Nanchang Sunac Land,Wood,Sit Down,Operating,5/28/2016,Nanchang,Jiangxi,China,Great Coasters International,62.1
+Helix,Liseberg,Steel,Sit Down,Operating,4/26/2014,Gothenburg,Västra Götaland,Sweden,Mack Rides GmbH & Co KG,62.1
+Abyssus,Energylandia,Steel,Sit Down,Operating,7/14/2021,Zator,Małopolskie,Poland,Vekoma,62.1
+Pyrenees,Parque Espana-Shima Spain Village,Steel,Inverted,Operating,1997,Shima,Mie,Japan,Bolliger & Mabillard,62.1
+Flying Dinosaur,Universal Studios Japan,Steel,Flying,Operating,3/18/2016,Osaka,Osaka,Japan,Bolliger & Mabillard,62.1
+Superman / la Atracción de Acero,Parque Warner Madrid,Steel,Sit Down,Operating,4/6/2002,Madrid,Community of Madrid,Spain,Bolliger & Mabillard,62.1
+Jungle Dragon,Dragon Valley Theme Park,Steel,Sit Down,Operating,2021,Nanjing,Jiangsu,China,Vekoma,62.1
+Blue Fire,Xuzhou Paradise,Steel,Sit Down,Operating,22-Oct,Xuzhou,Jiangsu,China,Mack Rides GmbH & Co KG,62.1
+Giant Digger,Lotte World Adventure Busan - Magic Forest,Steel,Sit Down,Operating,3/31/2022,Gijang,Busan,South Korea,Mack Rides GmbH & Co KG,62.1
+Steam Racers,Wuxi Sunac Land,Steel,Sit Down,Operating,8/25/2019,Wuxi,Jiangsu,China,Mack Rides GmbH & Co KG,62.1
+Battle of Blue Fire,Quancheng Euro Park,Steel,Sit Down,Operating,4/27/2014,Dezhou,Shandong,China,Mack Rides GmbH & Co KG,62.1
+blue fire Megacoaster,Europa Park,Steel,Sit Down,Operating,4/4/2009,Rust,Baden-Württemberg,Germany,Mack Rides GmbH & Co KG,62.1
+Launch Coaster,Colourful Yunnan Paradise,Steel,Sit Down,Operating,7/5/2018,Kunming,Yunnan,China,Mack Rides GmbH & Co KG,62.1
+Serpent Dragon,Sochi Park,Steel,Sit Down,Operating,2014,Sochi,Krasnodar,Russia,Mack Rides GmbH & Co KG,62.1
+Velociraptor,IMG Worlds of Adventure,Steel,Sit Down,Operating,8/31/2016,Dubai,Dubai,United Arab Emirates,Mack Rides GmbH & Co KG,62.1
+Velikolukskiy Myasokombinat,Wonder Island,Steel,Sit Down,Operating,5/15/2015,Saint Petersburg,Saint Petersburg,Russia,Mack Rides GmbH & Co KG,62.1
+Wodan Timbur Coaster,Europa Park,Wood,Sit Down,Operating,3/31/2012,Rust,Baden-Württemberg,Germany,Great Coasters International,62.1
+Sierra Tonante,Mirabilandia,Wood,Sit Down,Removed,1992,Savio,Emilia-Romagna,Italy,,62.1
+Takabisha,Fuji-Q Highland,Steel,Sit Down,Operating,7/16/2011,Fujiyoshida,Yamanashi,Japan,Gerstlauer Amusement Rides GmbH,62.1
+TMNT Shellraiser,Nickelodeon Universe Theme Park,Steel,Sit Down,Operating,10/25/2019,East Rutherford,New Jersey,United States,Gerstlauer Amusement Rides GmbH,62.1
+unknown,Colorful World,Steel,Sit Down,Under Construction,2023,Changsha,Hunan,China,S&S Worldwide,62.1
+Flug der Dämonen,Heide Park Resort,Steel,Wing,Operating,3/29/2014,Soltau,Lower Saxony,Germany,Bolliger & Mabillard,62.1
+Delphis,Festivalgate,Steel,Sit Down,Removed,7/18/1997,Osaka,Osaka,Japan,"Senyo Kogyo Co., Ltd.",62.1
+Flucht von Novgorod,Hansa-Park,Steel,Sit Down,Operating,4/9/2009,Sierksdorf,Schleswig-Holstein,Germany,Gerstlauer Amusement Rides GmbH,62.1
+Pitts Special,PowerPark,Steel,Sit Down,Operating,6/24/2020,Kauhava,Southern Ostrobothnia,Finland,Gerstlauer Amusement Rides GmbH,62.1
+Oblivion - The Black Hole,Gardaland,Steel,Sit Down,Operating,3/28/2015,Castelnuovo del Garda,Veneto,Italy,Bolliger & Mabillard,62.1
+Dynamite,Freizeitpark Plohn,Steel,Sit Down,Operating,5/18/2019,Lengenfeld,Saxony,Germany,Mack Rides GmbH & Co KG,62.1
+Racing Coaster,Trans Studio Bandung,Steel,Sit Down,Operating,2011,Bandung,West Java,Indonesia,Premier Rides,62.1
+Aquaman: Power Wave,Six Flags Over Texas,Steel,Sit Down,Operating,3/11/2023,Arlington,Texas,United States,Mack Rides GmbH & Co KG,62.1
+Linear Gale,Tokyo Dome City,Steel,Inverted,Removed,7/18/1998,Bunkyo,Tokyo,Japan,Intamin Amusement Rides,62.1
+U-shaped Roller Coaster,Victory Kingdom,Steel,Sit Down,SBNO,9/18/2013,Wuqing,Tianjin,China,Intamin Amusement Rides,62.1
+Superman Escape,Warner Bros. Movie World,Steel,Sit Down,Operating,12/26/2005,Gold Coast,Queensland,Australia,Intamin Amusement Rides,62.1
+Texas Giant,Six Flags Over Texas,Wood,Sit Down,Removed,3/17/1990,Arlington,Texas,United States,Dinn Corporation,62
+Colossus,Six Flags Magic Mountain,Wood,Sit Down,Removed,6/29/1978,Valencia,California,United States,"International Amusement Devices, Inc.",62
+Screamin' Eagle,Six Flags St. Louis,Wood,Sit Down,Operating,4/10/1976,Eureka,Missouri,United States,"Philadelphia Toboggan Coasters, Inc.",62
+Tatsu,Six Flags Magic Mountain,Steel,Flying,Operating,5/13/2006,Valencia,California,United States,Bolliger & Mabillard,62
+Wildcat's Revenge,Hersheypark,Steel,Sit Down,Operating,6/2/2023,Hershey,Pennsylvania,United States,Rocky Mountain Construction,62
+Afterburn,Carowinds,Steel,Inverted,Operating,3/20/1999,Charlotte,North Carolina,United States,Bolliger & Mabillard,62
+Odyssey,Fantasy Island,Steel,Inverted,Operating,5/25/2002,Lincolnshire,England,United Kingdom,Vekoma,62
+Drakko: The Flying Beast,Salitre Magico,Steel,Sit Down,Operating,8/24/2023,Bogotá,Cundinamarca,Colombia,Premier Rides,62
+Electric Eel,SeaWorld San Diego,Steel,Sit Down,Operating,5/10/2018,San Diego,California,United States,Premier Rides,62
+Hype,Särkänniemi Amusement Park,Steel,Sit Down,Operating,6/18/2017,Tampere,Pirkanmaa,Finland,Premier Rides,62
+Phobia Phear Coaster,Lake Compounce,Steel,Sit Down,Operating,5/7/2016,Bristol,Connecticut,United States,Premier Rides,62
+Sky Loop,Riyadh Winter Wonderland,Steel,Sit Down,Relocated,1/21/2022,Riyadh,Ar Riyadh,Saudi Arabia,Premier Rides,62
+Sky Loop,BLVD World,Steel,Sit Down,Operating,11/25/2022,Riyadh,Ar Riyadh,Saudi Arabia,Premier Rides,62
+Sky Rocket,Chimelong Paradise,Steel,Sit Down,Operating,9/26/2017,Guangzhou,Guangdong,China,Premier Rides,62
+Sky Scream,Holiday Park,Steel,Sit Down,Operating,4/12/2014,Hassloch,Rhineland-Palatinate,Germany,Premier Rides,62
+Superman Ultimate Flight,Six Flags Discovery Kingdom,Steel,Sit Down,Operating,6/30/2012,Vallejo,California,United States,Premier Rides,62
+Tempesto,Busch Gardens Williamsburg,Steel,Sit Down,Operating,4/25/2015,Williamsburg,Virginia,United States,Premier Rides,62
+Tigris,Busch Gardens Tampa,Steel,Sit Down,Operating,4/19/2019,Tampa,Florida,United States,Premier Rides,62
+Zombie Ride,Bosque Mágico,Steel,Sit Down,Relocated,7/31/2015,Guadalupe,Nuevo León,Mexico,Premier Rides,62
+Starfall Racers,Universal Studios Epic Universe,Steel,Sit Down,Under Construction,2025,Orlando,Florida,United States,,62
+Aftershock,Silverwood Theme Park,Steel,Inverted,Operating,7/21/2008,Athol,Idaho,United States,Vekoma,61.5
+Déjà Vu,Six Flags Great America,Steel,Inverted,Relocated,10/7/2001,Gurnee,Illinois,United States,Vekoma,61.5
+Déjà Vu,Six Flags Magic Mountain,Steel,Inverted,Relocated,8/25/2001,Valencia,California,United States,Vekoma,61.5
+Déjà Vu,Six Flags Over Georgia,Steel,Inverted,Relocated,9/1/2001,Austell,Georgia,United States,Vekoma,61.5
+Giant Inverted Boomerang,Jin Jiang Action Park,Steel,Inverted,Operating,9/30/2011,Minhang,Shanghai,China,Vekoma,61.5
+Goliath,Six Flags New England,Steel,Inverted,Removed,5/25/2012,Agawam,Massachusetts,United States,Vekoma,61.5
+Quantum Leap,Sochi Park,Steel,Inverted,Operating,2014,Sochi,Krasnodar,Russia,Vekoma,61.5
+Sky Mountain,Mirabilandia,Steel,Inverted,Relocated,unknown,Olinda,Pernambuco,Brazil,Vekoma,61.5
+Stunt Fall,Parque Warner Madrid,Steel,Inverted,Operating,8/8/2002,Madrid,Community of Madrid,Spain,Vekoma,61.5
+unknown,Mirabilandia,Steel,Inverted,Under Construction,2024,Paulista,Pernambuco,Brazil,Vekoma,61.5
+Rita,Alton Towers,Steel,Sit Down,Operating,4/1/2005,Staffordshire,England,United Kingdom,Intamin Amusement Rides,61.1
+Medusa,Six Flags Great Adventure,Steel,Sit Down,Operating,4/2/1999,Jackson,New Jersey,United States,Bolliger & Mabillard,61
+Wild Eagle,Dollywood,Steel,Wing,Operating,3/24/2012,Pigeon Forge,Tennessee,United States,Bolliger & Mabillard,61
+Gao,Greenland,Steel,Sit Down,Operating,3/8/1979,Arao,Kumamoto,Japan,Meisho Amusement Machines,60.9
+Rush Out of Yulin Stronghold,Sanya Silk Road Happy World,Steel,Sit Down,Operating,23-Feb,Sanya,Hainan,China,Jinma Rides,60.9
+Guardians of the Galaxy: Cosmic Rewind,Walt Disney World - Epcot,Steel,Sit Down,Operating,5/27/2022,Lake Buena Vista,Florida,United States,Vekoma,60.3
+Hayabusa,Tokyo SummerLand,Steel,Suspended,Removed,7/23/1992,Akiruno,Tokyo,Japan,Arrow Dynamics,60.3
+Hades 360,Mt. Olympus Water & Theme Park,Wood,Sit Down,Operating,5/14/2005,Wisconsin Dells,Wisconsin,United States,,60
+Boulder Dash,Lake Compounce,Wood,Sit Down,Operating,5/21/2000,Bristol,Connecticut,United States,"Custom Coasters International, Inc.",60
+Cheetah Hunt,Busch Gardens Tampa,Steel,Sit Down,Operating,5/27/2011,Tampa,Florida,United States,Intamin Amusement Rides,60
+Mindbender,Galaxyland Amusement Park,Steel,Sit Down,Removed,1985,Edmonton,Alberta,Canada,Schwarzkopf,60
+Montu,Busch Gardens Tampa,Steel,Inverted,Operating,5/16/1996,Tampa,Florida,United States,Bolliger & Mabillard,60
+Kumba,Busch Gardens Tampa,Steel,Sit Down,Operating,4/20/1993,Tampa,Florida,United States,Bolliger & Mabillard,60
+Red,Cedar Point,Steel,Sit Down,Operating,Jun-78,Sandusky,Ohio,United States,Arrow Dynamics,60
+Rougarou,Cedar Point,Steel,Sit Down,Operating,5/11/1996,Sandusky,Ohio,United States,Bolliger & Mabillard,60
+Shock Wave,Six Flags Over Texas,Steel,Sit Down,Operating,4/22/1978,Arlington,Texas,United States,Schwarzkopf,60
+Drachen Fire,Busch Gardens Williamsburg,Steel,Sit Down,Removed,4/4/1992,Williamsburg,Virginia,United States,Arrow Dynamics,60
+Loch Ness Monster,Busch Gardens Williamsburg,Steel,Sit Down,Operating,1978,Williamsburg,Virginia,United States,Arrow Dynamics,60
+Chinese Fireball,Universal Studios Islands of Adventure,Steel,Inverted,Removed,5/28/1999,Orlando,Florida,United States,Bolliger & Mabillard,60
+Patriot,Worlds of Fun,Steel,Inverted,Operating,4/8/2006,Kansas City,Missouri,United States,Bolliger & Mabillard,60
+Thunderbird,Holiday World,Steel,Wing,Operating,4/25/2015,Santa Claus,Indiana,United States,Bolliger & Mabillard,60
+Pipeline the Surf Coaster,SeaWorld Orlando,Steel,Stand Up,Operating,5/27/2023,Orlando,Florida,United States,Bolliger & Mabillard,60
+Zeus,Mt. Olympus Water & Theme Park,Wood,Sit Down,Operating,6/7/1997,Wisconsin Dells,Wisconsin,United States,"Custom Coasters International, Inc.",60
+Cyclone,Luna Park,Wood,Sit Down,Operating,6/26/1927,Brooklyn,New York,United States,,60
+Crazy Cobra,Discoveryland,Steel,Sit Down,Operating,7/16/2006,Dalian,Liaoning,China,Premier Rides,60
+Joker's Jinx,Six Flags America,Steel,Sit Down,Operating,5/8/1999,Upper Marlboro,Maryland,United States,Premier Rides,60
+Mad Cobra,Suzuka Circuit,Steel,Sit Down,Relocated,3/21/1998,Suzuka,Mie,Japan,Premier Rides,60
+Poltergeist,Six Flags Fiesta Texas,Steel,Sit Down,Operating,5/28/1999,San Antonio,Texas,United States,Premier Rides,60
+Dr. Diabolical's Cliffhanger,Six Flags Fiesta Texas,Steel,Sit Down,Operating,7/30/2022,San Antonio,Texas,United States,Bolliger & Mabillard,60
+Emperor,SeaWorld San Diego,Steel,Sit Down,Operating,3/12/2022,San Diego,California,United States,Bolliger & Mabillard,60
+Greezed Lightnin',Six Flags AstroWorld,Steel,Sit Down,Relocated,1978,Houston,Texas,United States,Schwarzkopf,60
+unknown,Joyland Amusement Park,Steel,Sit Down,Removed,unknown,Lubbock,Texas,United States,Schwarzkopf,60
+Georgia Surfer,Six Flags Over Georgia,Steel,Sit Down,Under Construction,2024,Austell,Georgia,United States,Intamin Amusement Rides,60
+Flight of the Himalayan Eagle Music Roller Coaster,Happy Valley,Steel,Sit Down,Operating,5/31/2019,Chaoyang,Beijing,China,Bolliger & Mabillard,59.9
+Monstre,La Ronde,Wood,Sit Down,Operating,7/20/1985,Montréal,Québec,Canada,,59.7
+TRON Lightcycle Power Run,Shanghai Disneyland,Steel,Sit Down,Operating,6/16/2016,Pudong,Shanghai,China,Vekoma,59.3
+Coaster Express,Parque Warner Madrid,Wood,Sit Down,Operating,4/6/2002,Madrid,Community of Madrid,Spain,Roller Coaster Corporation of America,59
+Legend,Holiday World,Wood,Sit Down,Operating,5/6/2000,Santa Claus,Indiana,United States,"Custom Coasters International, Inc.",59
+Villain,Geauga Lake & Wildwater Kingdom,Wood,Sit Down,Removed,5/5/2000,Aurora,Ohio,United States,"Custom Coasters International, Inc.",59
+Black Hole Express,Kumdori Land,Steel,Sit Down,Relocated,Jul-93,Yusong-gu,Daejeon,South Korea,Vekoma,59
+unknown,Atlantis Land,Steel,Sit Down,In Storage,2015,Surabaya,East Java,Indonesia,Vekoma,59
+Fiorano GT Challenge,Ferrari World Abu Dhabi,Steel,Sit Down,Operating,11/4/2010,Abu Dhabi,Abu Dhabi,United Arab Emirates,Maurer Rides GmbH,59
+Lech Coaster,Legendia Śląskie Wesołe Miasteczko,Steel,Sit Down,Operating,7/1/2017,Chorzów,Śląskie,Poland,Vekoma,59
+Fønix,Fårup Sommerland,Steel,Sit Down,Operating,4/9/2022,Blokhus,Nordjylland,Denmark,Vekoma,59
+Fēnix,Toverland,Steel,Wing,Operating,7/7/2018,Sevenum,Limburg,Netherlands,Bolliger & Mabillard,59
+Swarm,Thorpe Park,Steel,Wing,Operating,3/15/2012,Surrey,England,United Kingdom,Bolliger & Mabillard,59
+Divertical,Mirabilandia,Steel,Sit Down,Operating,6/16/2012,Savio,Emilia-Romagna,Italy,Intamin Amusement Rides,59
+Shock,MagicLand,Steel,Sit Down,Operating,2011,Valmontone,Lazio,Italy,Maurer Rides GmbH,59
+Speed: No Limits,Oakwood Theme Park,Steel,Sit Down,Operating,4/13/2006,Pembrokeshire,Wales,United Kingdom,Gerstlauer Amusement Rides GmbH,59
+Cloud Shuttle,Fantawild Wonderland,Steel,Sit Down,Operating,7/18/2023,Xuzhou,Jiangsu,China,Vekoma,59
+Flash: Vertical Velocity,Six Flags Great Adventure,Steel,Sit Down,Under Construction,2024,Jackson,New Jersey,United States,Vekoma,59
+Gold Rush,Slagharen Themepark & Resort,Steel,Sit Down,Operating,4/13/2017,Slagharen,Overijssel,Netherlands,Gerstlauer Amusement Rides GmbH,59
+Storm - The Dragon Legend,TusenFryd,Steel,Inverted,Operating,5/27/2023,Vinterbro,Akershus,Norway,Gerstlauer Amusement Rides GmbH,59
+Tower of Terror,Gold Reef City,Steel,Sit Down,Operating,1-Dec,Johannesburg,Gauteng,South Africa,,59
+Time Travel,Hot Go Park - Happy Jungle World,Wood,Sit Down,Operating,14-Sep,Fushun,Liaoning,China,Martin & Vleminckx,58.4
+Aurora Flying Coaster,Silk Road Paradise,Steel,Flying,Operating,2023,Xianyang,Shaanxi,China,Jinma Rides,58.4
+Thunder Road,Carowinds,Wood,Sit Down,Removed,4/3/1976,Charlotte,North Carolina,United States,"Philadelphia Toboggan Coasters, Inc.",58
+Wonder Woman Flight of Courage,Six Flags Magic Mountain,Steel,Sit Down,Operating,7/16/2022,Valencia,California,United States,Rocky Mountain Construction,58
+Talon,Dorney Park & Wildwater Kingdom,Steel,Inverted,Operating,5/5/2001,Allentown,Pennsylvania,United States,Bolliger & Mabillard,58
+Jersey Devil Coaster,Six Flags Great Adventure,Steel,Sit Down,Operating,6/13/2021,Jackson,New Jersey,United States,Rocky Mountain Construction,58
+Medusa Steel Coaster,Six Flags Mexico,Steel,Sit Down,Operating,6/14/2014,Mexico City,Mexico City,Mexico,Rocky Mountain Construction,58
+Tornado,Adventureland,Wood,Sit Down,Operating,7/4/1978,Altoona,Iowa,United States,,58
+Great Bear,Hersheypark,Steel,Inverted,Operating,5/23/1998,Hershey,Pennsylvania,United States,Bolliger & Mabillard,58
+Fahrenheit,Hersheypark,Steel,Sit Down,Operating,5/24/2008,Hershey,Pennsylvania,United States,Intamin Amusement Rides,58
+Cyclops,Mt. Olympus Water & Theme Park,Wood,Sit Down,Operating,1995,Wisconsin Dells,Wisconsin,United States,"Custom Coasters International, Inc.",58
+Aconcagua,Parque de la Ciudad,Steel,Sit Down,Removed,Feb-83,Buenos Aires,Buenos Aires,Argentina,Schwarzkopf,57.9
+Thundercoaster,TusenFryd,Wood,Sit Down,Operating,5/1/2001,Vinterbro,Akershus,Norway,Vekoma,57.8
+Magnus Colossus,Terra Mítica,Wood,Sit Down,SBNO,7/27/2000,Alicante,Valencian Community,Spain,Roller Coaster Corporation of America,57.2
+Untamed,Walibi Holland,Steel,Sit Down,Operating,7/1/2019,Biddinghuizen,Flevoland,Netherlands,Rocky Mountain Construction,57.2
+Shivering Timbers,Michigan's Adventure,Wood,Sit Down,Operating,1998,Muskegon,Michigan,United States,"Custom Coasters International, Inc.",57
+Twisted Colossus,Six Flags Magic Mountain,Steel,Sit Down,Operating,5/23/2015,Valencia,California,United States,Rocky Mountain Construction,57
+Mega Zeph,Six Flags New Orleans,Wood,Sit Down,SBNO,5/20/2000,New Orleans,Louisiana,United States,"Custom Coasters International, Inc.",57
+Raptor,Cedar Point,Steel,Inverted,Operating,5/7/1994,Sandusky,Ohio,United States,Bolliger & Mabillard,57
+Great American Scream Machine,Six Flags Over Georgia,Wood,Sit Down,Operating,3/31/1973,Austell,Georgia,United States,"Philadelphia Toboggan Coasters, Inc.",57
+Avengers Assemble: Flight Force,Disneyland Paris - Walt Disney Studios Park,Steel,Sit Down,Operating,3/16/2002,Marne la Vallée,Île-de-France,France,Vekoma,57
+Rock 'n' Roller Coaster,Walt Disney World - Disney's Hollywood Studios,Steel,Sit Down,Operating,7/29/1999,Lake Buena Vista,Florida,United States,Vekoma,57
+Ravine Flyer II,Waldameer,Wood,Sit Down,Operating,5/17/2008,Erie,Pennsylvania,United States,,57
+HangTime,Knott's Berry Farm,Steel,Sit Down,Operating,5/18/2018,Buena Park,California,United States,Gerstlauer Amusement Rides GmbH,57
+Golden Loop,Gold Reef City,Steel,Sit Down,Operating,1989,Johannesburg,Gauteng,South Africa,Schwarzkopf,57
+Greased Lightnin',California's Great America,Steel,Sit Down,Relocated,7/8/1977,Santa Clara,California,United States,Schwarzkopf,57
+Greased Lightnin',Six Flags Discovery Kingdom,Steel,Sit Down,Removed,unknown,Vallejo,California,United States,Schwarzkopf,57
+Greezed Lightnin',Kentucky Kingdom,Steel,Sit Down,Removed,4/25/2003,Louisville,Kentucky,United States,Schwarzkopf,57
+Shuttle Loop,Nagashima Spa Land,Steel,Sit Down,Operating,3/1/1980,Kuwana,Mie,Japan,Schwarzkopf,57
+Shuttle Loop,Toshimaen,Steel,Sit Down,Removed,5/2/1980,Nerima,Tokyo,Japan,Schwarzkopf,57
+Tidal Wave,Six Flags Great America,Steel,Sit Down,Relocated,1978,Gurnee,Illinois,United States,Schwarzkopf,57
+Viper,Six Flags Over Georgia,Steel,Sit Down,Relocated,4/29/1995,Austell,Georgia,United States,Schwarzkopf,57
+White Lightnin',Carowinds,Steel,Sit Down,Relocated,5/14/1977,Charlotte,North Carolina,United States,Schwarzkopf,57
+Jungle Trailblazer,Oriental Heritage,Wood,Sit Down,Operating,8/16/2015,Wuhu,Anhui,China,Martin & Vleminckx,56.5
+EpiQ Coaster,Doha Quest,Steel,Sit Down,Operating,7/1/2021,Doha,Doha,Qatar,Premier Rides,56.5
+Skycar,Mysterious Island,Steel,Sit Down,Operating,5-Dec,Zhuhai,Guangdong,China,Intamin Amusement Rides,56.5
+GhostRider,Knott's Berry Farm,Wood,Sit Down,Operating,12/8/1998,Buena Park,California,United States,"Custom Coasters International, Inc.",56
+Cú Chulainn,Emerald Park,Wood,Sit Down,Operating,6/6/2015,Ashbourne,Meath,Ireland,Gravitykraft Corporation,56
+Rampage,Alabama Adventure & Splash Adventure,Wood,Sit Down,SBNO,5/23/1998,Bessemer,Alabama,United States,"Custom Coasters International, Inc.",56
+South,Kings Dominion,Wood,Sit Down,Operating,5/3/1975,Doswell,Virginia,United States,"Philadelphia Toboggan Coasters, Inc.",56
+Manta,SeaWorld Orlando,Steel,Flying,Operating,5/22/2009,Orlando,Florida,United States,Bolliger & Mabillard,56
+Rolling Thunder,Six Flags Great Adventure,Wood,Sit Down,Removed,1979,Jackson,New Jersey,United States,,56
+Wilde Beast,Canada's Wonderland,Wood,Sit Down,Operating,1981,Vaughan,Ontario,Canada,,56
+Doble Loop,Salitre Magico,Steel,Sit Down,Operating,7/12/2004,Bogotá,Cundinamarca,Colombia,Soquet,56
+Quantum Loop,Seabreeze,Steel,Sit Down,Relocated,1994,Rochester,New York,United States,Soquet,56
+Hell Cat,Clementon Park,Wood,Sit Down,Operating,9/18/2004,Clementon,New Jersey,United States,S&S Worldwide,56
+Super Roller Coaster,Fantasy Dome,Steel,Sit Down,Removed,1990,Tomakomai,Hokkaido,Japan,Togo,56
+Gravity Max,Discovery World,Steel,Sit Down,Operating,2002,Houli Hsiang,Taichung,Taiwan,Vekoma,56
+Defiance,Glenwood Caverns Adventure Park,Steel,Sit Down,Operating,7/1/2022,Glenwood Springs,Colorado,United States,Gerstlauer Amusement Rides GmbH,56
+Voltron,Europa Park,Steel,Sit Down,Under Construction,2024,Rust,Baden-Württemberg,Germany,Mack Rides GmbH & Co KG,55.9
+Regina II,Tobu Zoo Park,Wood,Sit Down,Operating,3/18/2000,Saitama,Saitama,Japan,Intamin Amusement Rides,55.9
+Hollywood Dream: The Ride,Universal Studios Japan,Steel,Sit Down,Operating,3/9/2007,Osaka,Osaka,Japan,Bolliger & Mabillard,55.9
+Monster,Walygator Grand Est,Steel,Inverted,Operating,7/9/2010,Maizières-les-Metz,Grand Est,France,Bolliger & Mabillard,55.9
+Orochi,Expoland,Steel,Inverted,Relocated,3/15/1996,Suita,Osaka,Japan,Bolliger & Mabillard,55.9
+Mighty Canadian Minebuster,Canada's Wonderland,Wood,Sit Down,Operating,1981,Vaughan,Ontario,Canada,,55.9
+Wooden Coaster - Fireball,Happy Valley,Wood,Sit Down,Operating,8/16/2009,Songjiang,Shanghai,China,Martin & Vleminckx,55.9
+Balder,Liseberg,Wood,Sit Down,Operating,4/12/2003,Gothenburg,Västra Götaland,Sweden,Intamin Amusement Rides,55.9
+Acrobat,Nagashima Spa Land,Steel,Flying,Operating,7/18/2015,Kuwana,Mie,Japan,Bolliger & Mabillard,55.9
+OzIris,Parc Astérix,Steel,Inverted,Operating,4/7/2012,Plailly,Hauts-de-France,France,Bolliger & Mabillard,55.9
+Phaethon,Gyeongju World,Steel,Inverted,Operating,5/5/2007,Gyeongju,Gyeongsangbuk-do,South Korea,Bolliger & Mabillard,55.9
+Yukon Quad,Le Pal,Steel,Sit Down,Operating,4/7/2018,Dompierre Sur Besbre,Auvergne-Rhône-Alpes,France,Intamin Amusement Rides,55.9
+Xpress: Platform 13,Walibi Holland,Steel,Sit Down,Operating,Apr-00,Biddinghuizen,Flevoland,Netherlands,Vekoma,55.9
+Double Loop,Fuji-Q Highland,Steel,Sit Down,Removed,3/26/1980,Fujiyoshida,Yamanashi,Japan,Meisho Amusement Machines,55.9
+Cylon,Universal Studios Singapore,Steel,Inverted,Operating,3/18/2010,Sentosa,Sentosa,Singapore,Vekoma,55.9
+Goudurix,Parc Astérix,Steel,Sit Down,Operating,4/30/1989,Plailly,Hauts-de-France,France,Vekoma,55.9
+Ride to Happiness,Plopsaland De Panne,Steel,Sit Down,Operating,7/1/2021,West Flanders,Flemish Region,Belgium,Mack Rides GmbH & Co KG,55.9
+Roller Coaster,Tianjin Amusement Park,Steel,Sit Down,Removed,May-97,Hexi,Tianjin,China,Sameco,55.9
+Mammut,Erlebnispark Tripsdrill,Wood,Sit Down,Operating,4/28/2008,Cleebronn,Baden-Württemberg,Germany,Cordes Holzbau,55.9
+Millennium,Fantasy Island,Steel,Sit Down,Operating,5/22/1999,Lincolnshire,England,United Kingdom,Vekoma,55.9
+Jetline,Gröna Lund,Steel,Sit Down,SBNO,4/23/1988,Stockholm,Stockholm,Sweden,Zierer,55.9
+Raptor,Gardaland,Steel,Wing,Operating,4/1/2011,Castelnuovo del Garda,Veneto,Italy,Bolliger & Mabillard,55.9
+unknown,Emerald Park,Steel,Inverted,Under Construction,24-May,Ashbourne,Meath,Ireland,Vekoma,55.9
+Anaconda,Gold Reef City,Steel,Inverted,Operating,1999,Johannesburg,Gauteng,South Africa,Giovanola,55.9
+Star Trek: Operation Enterprise,Movie Park Germany,Steel,Sit Down,Operating,6/14/2017,Bottrop,North Rhine-Westphalia,Germany,Mack Rides GmbH & Co KG,55.9
+Karacho,Erlebnispark Tripsdrill,Steel,Sit Down,Operating,7/10/2013,Cleebronn,Baden-Württemberg,Germany,Gerstlauer Amusement Rides GmbH,55.9
+Monster,Gröna Lund,Steel,Inverted,Operating,6/2/2021,Stockholm,Stockholm,Sweden,Bolliger & Mabillard,55.9
+Speed Monster,TusenFryd,Steel,Sit Down,Operating,4/23/2006,Vinterbro,Akershus,Norway,Intamin Amusement Rides,55.9
+Rollin' Thunder,Tropic Falls Theme Park,Steel,Sit Down,Operating,7/21/2017,Foley,Alabama,United States,Zamperla,55.9
+Thunderbolt,Luna Park,Steel,Sit Down,Operating,6/14/2014,Brooklyn,New York,United States,Zamperla,55.9
+Thunderbolt,Robotland,Steel,Sit Down,Operating,9/6/2019,Changwon,Gyeongsangnam-do,South Korea,Zamperla,55.9
+Anubis: The Ride,Plopsaland De Panne,Steel,Sit Down,Operating,4/5/2009,West Flanders,Flemish Region,Belgium,Gerstlauer Amusement Rides GmbH,55.9
+Baron 1898,Efteling,Steel,Sit Down,Operating,7/1/2015,Kaatsheuvel,North Brabant,Netherlands,Bolliger & Mabillard,55.9
+Moonsault Scramble,Fuji-Q Highland,Steel,Sit Down,Removed,6/24/1983,Fujiyoshida,Yamanashi,Japan,Meisho Amusement Machines,55.9
+Shuttle Loop,Yokohama Dreamland,Steel,Sit Down,Removed,3/20/1979,Yokohama,Kanagawa,Japan,Schwarzkopf,55.9
+Surfrider,Atallah Happy Land Park,Steel,Sit Down,Operating,2012,Jeddah,Makkah,Saudi Arabia,Intamin Amusement Rides,55.9
+Bush Beast,Wonderland Sydney,Wood,Sit Down,Removed,1985,Eastern Creek,New South Wales,Australia,,55.9
+Loop the Loop,Rusutsu Resort,Steel,Sit Down,Operating,6/10/1983,Shiribeshi,Hokkaido,Japan,Meisho Amusement Machines,55.9
+Loop the Loop,Suntopia World,Steel,Sit Down,Removed,1981,Agano,Niigata,Japan,Meisho Amusement Machines,55.9
+Loop the Loop,Sendai Highland,Steel,Sit Down,Removed,7/25/1981,Sendai,Miyagi,Japan,Meisho Amusement Machines,55.9
+Loop the Loop,World Food Festival,Steel,Sit Down,Relocated,6/12/1982,Sapporo,Hokkaido,Japan,Meisho Amusement Machines,55.9
+Broken Rail Roller Coaster,Great Xingdong Tourist World,Steel,Sit Down,Operating,2018,Anshun,Guizhou,China,Jinma Rides,55.3
+Magic-Loop Roller Coaster,Wenzhou Paradise,Steel,Sit Down,Operating,2020,Wenzhou,Zhejiang,China,Beijing Shibaolai Amusement Equipment,55.3
+Jungle Trailblazer,Oriental Heritage,Wood,Sit Down,Operating,6/13/2015,Jinan,Shandong,China,Martin & Vleminckx,55.2
+Jungle Trailblazer,Oriental Heritage,Wood,Sit Down,Operating,4/16/2016,Ningbo,Zhejiang,China,Martin & Vleminckx,55.2
+Incredicoaster,Disney California Adventure Park,Steel,Sit Down,Operating,2/8/2001,Anaheim,California,United States,Intamin Amusement Rides,55
+Twister III: Storm Chaser,Elitch Gardens,Wood,Sit Down,Operating,5/27/1995,Denver,Colorado,United States,Hensel Phelps Construction Co.,55
+Comet,Crystal Beach,Wood,Sit Down,Relocated,5/22/1948,Crystal Beach,Ontario,Canada,"Philadelphia Toboggan Coasters, Inc.",55
+Comet,Six Flags Great Escape,Wood,Sit Down,Operating,6/25/1994,Queensbury,New York,United States,"Philadelphia Toboggan Coasters, Inc.",55
+West Coast Racers,Six Flags Magic Mountain,Steel,Sit Down,Operating,1/9/2020,Valencia,California,United States,Premier Rides,55
+Jerome's Wooden Dragon,Happy Valley,Wood,Sit Down,Operating,9/6/2017,Yubei,Chongqing,China,Great Coasters International,55
+Hurricane,Myrtle Beach Pavilion,Wood,Sit Down,Removed,5/6/2000,Myrtle Beach,South Carolina,United States,"Custom Coasters International, Inc.",55
+Vortex,Kings Island,Steel,Sit Down,Removed,4/11/1987,Mason,Ohio,United States,Arrow Dynamics,55
+New Revolution,Six Flags Magic Mountain,Steel,Sit Down,Operating,5/8/1976,Valencia,California,United States,Schwarzkopf,55
+Texas Stingray,SeaWorld San Antonio,Wood,Sit Down,Operating,2/22/2020,San Antonio,Texas,United States,Great Coasters International,55
+Wicked Cyclone,Six Flags New England,Steel,Sit Down,Operating,5/24/2015,Agawam,Massachusetts,United States,Rocky Mountain Construction,55
+Grizzly,California's Great America,Wood,Sit Down,Operating,1986,Santa Clara,California,United States,,55
+Thunderbolt,Kennywood,Wood,Sit Down,Operating,5/4/1924,West Mifflin,Pennsylvania,United States,,55
+Medusa,Six Flags Mexico,Wood,Sit Down,Removed,6/2/2000,Mexico City,Mexico City,Mexico,"Custom Coasters International, Inc.",55
+Silver Bullet,Knott's Berry Farm,Steel,Inverted,Operating,12/7/2004,Buena Park,California,United States,Bolliger & Mabillard,55
+Comet,Lincoln Park,Wood,Sit Down,Removed,1946,North Dartmouth,Massachusetts,United States,National Amusement Device Company,55
+Stella,Kentucky Kingdom,Wood,Sit Down,Removed,6/20/1998,Louisville,Kentucky,United States,"Custom Coasters International, Inc.",55
+Wolverine Wildcat,Michigan's Adventure,Wood,Sit Down,Operating,5/14/1988,Muskegon,Michigan,United States,Dinn Corporation,55
+X-Flight,Six Flags Great America,Steel,Wing,Operating,5/16/2012,Gurnee,Illinois,United States,Bolliger & Mabillard,55
+Firebird,Six Flags America,Steel,Sit Down,Operating,6/7/2012,Upper Marlboro,Maryland,United States,Bolliger & Mabillard,55
+Iron Wolf,Six Flags Great America,Steel,Sit Down,Relocated,4/28/1990,Gurnee,Illinois,United States,Bolliger & Mabillard,55
+Excalibur,Funtown Splashtown U.S.A.,Wood,Sit Down,Operating,6/5/1998,Saco,Maine,United States,"Custom Coasters International, Inc.",55
+Ninja,Six Flags Magic Mountain,Steel,Suspended,Operating,5/21/1988,Valencia,California,United States,Arrow Dynamics,55
+Timber Terror,Silverwood Theme Park,Wood,Sit Down,Operating,1996,Athol,Idaho,United States,"Custom Coasters International, Inc.",55
+Giant Dipper,Santa Cruz Beach Boardwalk,Wood,Sit Down,Operating,5/17/1924,Santa Cruz,California,United States,,55
+Batman - The Dark Knight,Six Flags New England,Steel,Sit Down,Operating,4/20/2002,Agawam,Massachusetts,United States,Bolliger & Mabillard,55
+Giant Dipper,Belmont Park,Wood,Sit Down,Operating,7/4/1925,San Diego,California,United States,,55
+Lightning Run,Kentucky Kingdom,Steel,Sit Down,Operating,5/24/2014,Louisville,Kentucky,United States,Chance Rides,55
+Sky Streak,Boblo Island,Steel,Sit Down,Relocated,5/25/1973,Amherstburg,Ontario,Canada,Sansei Technologies,55
+Titán,Selva Mágica,Steel,Sit Down,Operating,Aug-94,Guadalajara,Jalisco,Mexico,Sansei Technologies,55
+Vortex,Canada's Wonderland,Steel,Suspended,Operating,1991,Vaughan,Ontario,Canada,Arrow Dynamics,55
+Great Nor'Easter,Morey's Piers,Steel,Inverted,Operating,1995,Wildwood,New Jersey,United States,Vekoma,55
+Wicked,Lagoon,Steel,Sit Down,Operating,6/1/2007,Farmington,Utah,United States,Zierer,55
+Impulse,Knoebels Amusement Resort,Steel,Sit Down,Operating,4/25/2015,Elysburg,Pennsylvania,United States,Zierer,55
+Revolution,Libertyland,Steel,Sit Down,Relocated,1979,Memphis,Tennessee,United States,Arrow Dynamics,55
+Zimerman,Glorious Fantasyland,Steel,Sit Down,Operating,2/14/2014,Dapitan City,Zamboanga del Norte,Philippines,Arrow Dynamics,55
+unknown,DelGrosso's Amusement Park,Steel,Sit Down,Relocated,unknown,Tipton,Pennsylvania,United States,Arrow Dynamics,55
+Montezooma's Revenge,Knott's Berry Farm,Steel,Sit Down,SBNO,5/21/1978,Buena Park,California,United States,Schwarzkopf,55
+Kumali,Flamingo Land,Steel,Inverted,Operating,4/1/2006,North Yorkshire,England,United Kingdom,Vekoma,54.9
+Snow Mountain Flying Dragon,Happy Valley,Steel,Inverted,SBNO,5/1/2002,Shenzhen,Guangdong,China,Vekoma,54.9
+Starry Sky Ripper,Joyland,Steel,Flying,Operating,4/30/2011,Changzhou,Jiangsu,China,Bolliger & Mabillard,54.7
+Hair Raiser,Ocean Park,Steel,Sit Down,Operating,12/8/2011,Hong Kong Island,Hong Kong,China,Bolliger & Mabillard,54.7
+Big Boom,Myoko Sunshine Land,Steel,Sit Down,Removed,1981,Joetsu,Niigata,Japan,Meisho Amusement Machines,54.7
+Ninja,Six Flags St. Louis,Steel,Sit Down,Operating,Apr-89,Eureka,Missouri,United States,Vekoma,54.7
+Scream Machine,Expo '86,Steel,Sit Down,Relocated,5/2/1986,Vancouver,British Columbia,Canada,Vekoma,54.7
+Hanging Roller Coaster,Great Xingdong Tourist World,Steel,Inverted,Operating,2018,Anshun,Guizhou,China,Jinma Rides,54.7
+Big Boom,Nasu Highland Park,Steel,Sit Down,Operating,8/20/1987,Nasu,Tochigi,Japan,Meisho Amusement Machines,54.7
+Avalancha,Xetulul,Steel,Sit Down,Operating,2-Jun,San Martín Zapotitlán,Retalhuleu,Guatemala,Intamin Amusement Rides,54.7
+Excalibur,Valleyfair!,Steel,Sit Down,Operating,1989,Shakopee,Minnesota,United States,Arrow Dynamics,54.5
+Fjord Flying Dragon,Happy Valley,Wood,Sit Down,Operating,7/27/2013,Dongli,Tianjin,China,Martin & Vleminckx,54.1
+Jungle Trailblazer,Fantawild Dreamland,Wood,Sit Down,Operating,8/18/2016,Zhuzhou,Hunan,China,Martin & Vleminckx,54.1
+Thunderbolt,Dreamworld,Steel,Sit Down,Removed,5/1/1982,Coomera,Queensland,Australia,Meisho Amusement Machines,54.1
+Red,Happy Valley,Wood,Sit Down,Operating,4/29/2012,Wuhan,Hubei,China,Martin & Vleminckx,54.1
+Andalusia Railroad,Kure Portopialand,Steel,Sit Down,Relocated,3/20/1992,Kure,Hiroshima,Japan,BHS,54.1
+Big Roller Coaster,Wonder Island,Steel,Sit Down,Operating,2004,Saint Petersburg,Saint Petersburg,Russia,BHS,54.1
+Jungle Trailblazer,Fantawild Dreamland,Wood,Sit Down,Operating,7/9/2015,Zhengzhou,Henan,China,Martin & Vleminckx,54.1
+Jungle Trailblazer,Fantawild Asian Legend,Wood,Sit Down,Operating,8/8/2018,Nanning,Guangxi,China,Martin & Vleminckx,54.1
+Lost Gravity,Walibi Holland,Steel,Sit Down,Operating,3/24/2016,Biddinghuizen,Flevoland,Netherlands,Mack Rides GmbH & Co KG,54.1
+Happy Angel,Harbin Sunac Land,Steel,Inverted,Operating,17-Jun,Harbin,Heilongjiang,China,Jinma Rides,54.1
+Texas Tornado,Six Flags AstroWorld,Steel,Sit Down,Relocated,3/14/1998,Houston,Texas,United States,Schwarzkopf,54
+Thriller,Gröna Lund,Steel,Sit Down,Relocated,1996,Stockholm,Stockholm,Sweden,Schwarzkopf,54
+Tsunami,Isla San Marcos Parque Temático,Steel,Sit Down,Removed,4/27/2008,Aguascalientes,Aguascalientes,Mexico,Schwarzkopf,54
+Zonga,Six Flags Discovery Kingdom,Steel,Sit Down,Relocated,4/25/2003,Vallejo,California,United States,Schwarzkopf,54
+Troy,Toverland,Wood,Sit Down,Operating,6/29/2007,Sevenum,Limburg,Netherlands,Great Coasters International,54
+Twisted Timbers,Kings Dominion,Steel,Sit Down,Operating,3/24/2018,Doswell,Virginia,United States,Rocky Mountain Construction,54
+Georgia Scorcher,Six Flags Over Georgia,Steel,Stand Up,Operating,May-99,Austell,Georgia,United States,Bolliger & Mabillard,54
+Flight of Fear,Kings Island,Steel,Sit Down,Operating,1996,Mason,Ohio,United States,Premier Rides,54
+Flight of Fear,Kings Dominion,Steel,Sit Down,Operating,6/18/1996,Doswell,Virginia,United States,Premier Rides,54
+Velocity,Flamingo Land,Steel,Sit Down,Operating,7/2/2005,North Yorkshire,England,United Kingdom,Vekoma,54
+Thunderhead,Dollywood,Wood,Sit Down,Operating,4/3/2004,Pigeon Forge,Tennessee,United States,Great Coasters International,53.7
+Gold Striker,California's Great America,Wood,Sit Down,Operating,5/31/2013,Santa Clara,California,United States,Great Coasters International,53.7
+Dragon in Clouds,Happy Valley,Steel,Inverted,Operating,1/19/2009,Chengdu,Sichuan,China,Vekoma,53.7
+Golden Wings over the Snowfield,Happy Valley,Steel,Inverted,Operating,7/9/2006,Chaoyang,Beijing,China,Vekoma,53.7
+Venus GP,Space World,Steel,Sit Down,Relocated,2/13/1996,Kitakyushu,Fukuoka,Japan,Maurer Rides GmbH,53.4
+Venus GP,Himeji Central Park,Steel,Sit Down,Operating,7/16/2022,Himeji,Hyōgo,Japan,Maurer Rides GmbH,53.4
+unknown,Rusutsu Resort,Steel,Sit Down,Relocated,unknown,Shiribeshi,Hokkaido,Japan,Maurer Rides GmbH,53.4
+All American Triple Loop,Indiana Beach,Steel,Sit Down,Under Construction,2024,Monticello,Indiana,United States,Schwarzkopf,53.4
+Magnum Force,Flamingo Land,Steel,Sit Down,Relocated,2000,North Yorkshire,England,United Kingdom,Schwarzkopf,53.4
+Quimera,Aztlán Parque Urbano,Steel,Sit Down,Relocated,2007,Mexico City,Mexico City,Mexico,Schwarzkopf,53.4
+Triple Loop Coaster,Sunway Lagoon,Steel,Sit Down,Relocated,1997,Subang Jaya,Selangor,Malaysia,Schwarzkopf,53.4
+Insane Speed,Janfusun Fancyworld,Steel,Sit Down,Operating,2001,Koo-Kung Hsiang,Yunlin County,Taiwan,Bolliger & Mabillard,53.4
+Typhoon Coaster,Land of Legends Theme Park,Steel,Sit Down,Operating,2016,Antalya,Antalya,Turkey,Intamin Amusement Rides,53.4
+Hydro Racer,Xishuangbanna Sunac Land,Steel,Sit Down,SBNO,9/26/2015,Xishuangbanna,Yunnan,China,Intamin Amusement Rides,53.4
+Timber Wolf,Worlds of Fun,Wood,Sit Down,Operating,4/1/1989,Kansas City,Missouri,United States,Dinn Corporation,53
+Giant Coaster,Paragon Park,Wood,Sit Down,Relocated,1917,Hull,Massachusetts,United States,"Philadelphia Toboggan Coasters, Inc.",53
+Wild One,Six Flags America,Wood,Sit Down,Operating,1986,Upper Marlboro,Maryland,United States,"Philadelphia Toboggan Coasters, Inc.",53
+Red,Kings Island,Wood,Sit Down,Operating,4/29/1972,Mason,Ohio,United States,"Philadelphia Toboggan Coasters, Inc.",53
+Mystic Timbers,Kings Island,Wood,Sit Down,Operating,4/15/2017,Mason,Ohio,United States,Great Coasters International,53
+Joker,Six Flags Discovery Kingdom,Steel,Sit Down,Operating,5/30/2016,Vallejo,California,United States,Rocky Mountain Construction,53
+Hydra the Revenge,Dorney Park & Wildwater Kingdom,Steel,Sit Down,Operating,5/7/2005,Allentown,Pennsylvania,United States,Bolliger & Mabillard,53
+Thunder Run,Kentucky Kingdom,Wood,Sit Down,Operating,Aug-90,Louisville,Kentucky,United States,Dinn Corporation,53
+Verbolten,Busch Gardens Williamsburg,Steel,Sit Down,Operating,5/18/2012,Williamsburg,Virginia,United States,Zierer,53
+Münchner Bahn,Speelland Beekse Bergen,Steel,Sit Down,Relocated,1985,Hilvarenbeek,North Brabant,Netherlands,Schwarzkopf,53
+Rollercoaster,Future World,Steel,Sit Down,Removed,unknown,Thanyaburi,Pathum Thani,Thailand,Schwarzkopf,53
+Traumlandbahn,Movie Park Germany,Steel,Sit Down,Relocated,1987,Bottrop,North Rhine-Westphalia,Germany,Schwarzkopf,53
+Thunderchariot,Discoveryland,Steel,Sit Down,Operating,3/24/2018,Dalian,Liaoning,China,Zamperla,53
+Shockwave,Drayton Manor,Steel,Sit Down,Operating,1994,Staffordshire,England,United Kingdom,Intamin Amusement Rides,53
+unknown,Guiyang Happy World,Steel,Sit Down,Operating,4/28/2023,Guiyang,Guizhou,China,Jinma Rides,53
+unknown,Huahai Happy World,Steel,Sit Down,Operating,12/22/2023,Jiangmen,Guangdong,China,Jinma Rides,53
+Katapul,Hopi Hari,Steel,Sit Down,Operating,1999,Vinhedo,São Paulo,Brazil,Schwarzkopf,53
+King Kobra,Kings Dominion,Steel,Sit Down,Relocated,1977,Doswell,Virginia,United States,Schwarzkopf,53
+King Kobra,Jolly Roger Amusement Park,Steel,Sit Down,Relocated,1987,Ocean City,Maryland,United States,Schwarzkopf,53
+Psyké Underground,Walibi Belgium,Steel,Sit Down,Operating,1982,Walloon Brabant,Wallonia,Belgium,Schwarzkopf,53
+Thunderlooper,Alton Towers,Steel,Sit Down,Relocated,1990,Staffordshire,England,United Kingdom,Schwarzkopf,53
+Montaña Rusa,Aztlán Parque Urbano,Wood,Sit Down,Removed,1964,Mexico City,Mexico City,Mexico,National Amusement Device Company,52.8
+Smiler,Alton Towers,Steel,Sit Down,Operating,5/31/2013,Staffordshire,England,United Kingdom,Gerstlauer Amusement Rides GmbH,52.8
+Icon,Blackpool Pleasure Beach,Steel,Sit Down,Operating,5/25/2018,Lancashire,England,United Kingdom,Mack Rides GmbH & Co KG,52.8
+Steel Dolphin,Shanghai Haichang Ocean Park,Steel,Sit Down,Operating,11/17/2018,Pudong,Shanghai,China,Intamin Amusement Rides,52.8
+Juvelen,Djurs Sommerland,Steel,Sit Down,Operating,5/4/2013,Nimtofte,Midtjylland,Denmark,Intamin Amusement Rides,52.8
+Black Hole 2000,Seoul Land,Steel,Sit Down,Operating,9/21/1990,Kwachon-si,Gyeonggi-do,South Korea,"Senyo Kogyo Co., Ltd.",52.8
+Big Dipper,Luna Park,Steel,Sit Down,Relocated,1995,Sydney,New South Wales,Australia,Arrow Dynamics,52.8
+Gold Coaster,Dreamworld,Steel,Sit Down,Operating,12/26/2001,Coomera,Queensland,Australia,Arrow Dynamics,52.8
+Columbia Double Loop Coaster,Seoul Land,Steel,Sit Down,Operating,4/20/1988,Kwachon-si,Gyeonggi-do,South Korea,"Senyo Kogyo Co., Ltd.",52.8
+Harpy,Xishuangbanna Sunac Land,Steel,Flying,SBNO,9/26/2015,Xishuangbanna,Yunnan,China,Bolliger & Mabillard,52.8
+Altair,Cinecittà World,Steel,Sit Down,Operating,7/24/2014,Rome,Lazio,Italy,Intamin Amusement Rides,52.8
+Crazy Coaster,Loca Joy Holiday Theme Park,Steel,Sit Down,Operating,11/9/2013,Yongchuan,Chongqing,China,Intamin Amusement Rides,52.8
+Lightspeed,Wonderland Eurasia,Steel,Sit Down,SBNO,3/20/2019,Ankara,Ankara,Turkey,Intamin Amusement Rides,52.8
+Sik,Flamingo Land,Steel,Sit Down,Operating,7/2/2022,North Yorkshire,England,United Kingdom,Intamin Amusement Rides,52.8
+unknown,Hopi Hari,Steel,Sit Down,Relocated,unknown,Vinhedo,São Paulo,Brazil,Intamin Amusement Rides,52.8
+unknown,Movie Animation Park Studios,Steel,Sit Down,Relocated,unknown,Ipoh,Perak,Malaysia,Intamin Amusement Rides,52.8
+Velikolukskiy Myasokombinat-2,Wonder Island,Steel,Sit Down,Operating,2017,Saint Petersburg,Saint Petersburg,Russia,Intamin Amusement Rides,52.8
+DrageKongen,Djurs Sommerland,Steel,Inverted,Operating,5/6/2017,Nimtofte,Midtjylland,Denmark,Intamin Amusement Rides,52.8
+Fly Over Mediterranean,Happy Valley,Steel,Sit Down,Operating,1/17/2009,Chengdu,Sichuan,China,Intamin Amusement Rides,52.8
+Kawasemi,Tobu Zoo Park,Steel,Sit Down,Operating,8-Mar,Saitama,Saitama,Japan,Intamin Amusement Rides,52.8
+Light Speed,Visionland,Steel,Sit Down,Operating,7/6/2017,Liuzhou,Guangxi,China,Intamin Amusement Rides,52.8
+Mega-Lite,Happy Valley,Steel,Sit Down,Operating,8/16/2009,Songjiang,Shanghai,China,Intamin Amusement Rides,52.8
+Piraten,Djurs Sommerland,Steel,Sit Down,Operating,5/1/2008,Nimtofte,Midtjylland,Denmark,Intamin Amusement Rides,52.8
+Abyss,Adventure World,Steel,Sit Down,Operating,11/1/2013,Bibra Lake,Western Australia,Australia,Gerstlauer Amusement Rides GmbH,52.8
+Dragon Legend,Romon U-Park,Steel,Sit Down,Operating,6/19/2015,Ningbo,Zhejiang,China,Maurer Rides GmbH,52.8
+Mystic,Walibi Rhône-Alpes,Steel,Sit Down,Operating,5/30/2019,Les Avenières,Auvergne-Rhône-Alpes,France,Gerstlauer Amusement Rides GmbH,52.8
+Huracan,Belantis,Steel,Sit Down,Operating,6/26/2010,Leipzig,Saxony,Germany,Gerstlauer Amusement Rides GmbH,52.8
+Storm Rider,Xishuangbanna Sunac Land,Steel,Sit Down,SBNO,9/26/2015,Xishuangbanna,Yunnan,China,Zamperla,52.8
+Tantrum,Six Flags Darien Lake,Steel,Sit Down,Operating,5/25/2018,Darien Center,New York,United States,Gerstlauer Amusement Rides GmbH,52.8
+Cobra,Conny-Land,Steel,Sit Down,Operating,7/29/2010,Lipperswil,Thurgau,Switzerland,Pax Company,52.8
+Skate,Mellat Amusement Park,Steel,Sit Down,Operating,2011,Mashhad,Razavi Khorasan,Iran,Iran Park,52.8
+White Canyon,Yomiuriland,Wood,Sit Down,Removed,4/9/1994,Inagi,Tokyo,Japan,,52.4
+Tonnerre 2 Zeus,Parc Astérix,Wood,Sit Down,Operating,1997,Plailly,Hauts-de-France,France,"Custom Coasters International, Inc.",52
+Big Bend,Six Flags Over Texas,Steel,Sit Down,Relocated,1971,Arlington,Texas,United States,Schwarzkopf,52
+Big Bend,Six Flags St. Louis,Steel,Sit Down,Removed,unknown,Eureka,Missouri,United States,Schwarzkopf,52
+Storm Chaser,Kentucky Kingdom,Steel,Sit Down,Operating,4/30/2016,Louisville,Kentucky,United States,Rocky Mountain Construction,52
+Blue Hawk,Six Flags Over Georgia,Steel,Sit Down,Operating,3/1/1992,Austell,Georgia,United States,Vekoma,52
+Kamikaze,Dinosaur Beach,Steel,Sit Down,Relocated,1989,Wildwood,New Jersey,United States,Vekoma,52
+Cheetah,Wild Adventures,Wood,Sit Down,Removed,6/16/2001,Valdosta,Georgia,United States,"Custom Coasters International, Inc.",52
+Colossus,Playcenter São Paulo,Steel,Sit Down,Relocated,1981,São Paulo,São Paulo,Brazil,Schwarzkopf,52
+Laser,Dorney Park & Wildwater Kingdom,Steel,Sit Down,Relocated,1986,Allentown,Pennsylvania,United States,Schwarzkopf,52
+Teststrecke,Wiener Prater,Steel,Sit Down,Removed,3/30/2019,Vienna,Vienna,Austria,Schwarzkopf,52
+Dare Devil Dive,Six Flags Over Georgia,Steel,Sit Down,Operating,5/28/2011,Austell,Georgia,United States,Gerstlauer Amusement Rides GmbH,52
+Ice Breaker,SeaWorld Orlando,Steel,Sit Down,Operating,2/18/2022,Orlando,Florida,United States,Premier Rides,52
+RailBlazer,California's Great America,Steel,Sit Down,Operating,6/14/2018,Santa Clara,California,United States,Rocky Mountain Construction,52
+Stunt Pilot,Silverwood Theme Park,Steel,Sit Down,Operating,5/29/2021,Athol,Idaho,United States,Rocky Mountain Construction,52
+Wonder Woman Golden Lasso Coaster,Six Flags Fiesta Texas,Steel,Sit Down,Operating,5/12/2018,San Antonio,Texas,United States,Rocky Mountain Construction,52
+Iron Shark,Galveston Island Historic Pleasure Pier,Steel,Sit Down,Operating,6/1/2012,Galveston,Texas,United States,Gerstlauer Amusement Rides GmbH,52
+Kráter,Parque del Café,Steel,Sit Down,Operating,12/19/2014,Montenegro,Quindio,Colombia,Gerstlauer Amusement Rides GmbH,52
+Alpina Blitz,Nigloland,Steel,Sit Down,Operating,4/12/2014,Dolancourt,Grand Est,France,Mack Rides GmbH & Co KG,51.6
+Madagascar Mad Pursuit,Motiongate,Steel,Sit Down,Operating,2017,Dubai,Dubai,United Arab Emirates,Gerstlauer Amusement Rides GmbH,51.6
+Twister,Knoebels Amusement Resort,Wood,Sit Down,Operating,7/24/1999,Elysburg,Pennsylvania,United States,,51.5
+Boomerang Roller Coaster,Wuhan Zhongshan Park,Steel,Sit Down,Operating,5/23/2017,Wuhan,Hubei,China,"Hebei Zhongye Metallurgical Equipment Manufacturing Co., Ltd",51.4
+Boomerang Roller Coaster,Yabuli Ocean Park,Steel,Sit Down,Operating,17-Sep,Harbin,Heilongjiang,China,"Hebei Zhongye Metallurgical Equipment Manufacturing Co., Ltd",51.4
+Boomerang Roller Coaster,Gaotao Cultural and Creative Park,Steel,Sit Down,Operating,2021,Lu'an,Anhui,China,"Hebei Zhongye Metallurgical Equipment Manufacturing Co., Ltd",51.4
+Renegade,Valleyfair!,Wood,Sit Down,Operating,5/12/2007,Shakopee,Minnesota,United States,Great Coasters International,51.3
+Prowler,Worlds of Fun,Wood,Sit Down,Operating,5/2/2009,Kansas City,Missouri,United States,Great Coasters International,51.2
+Thunder,Hersheypark,Wood,Sit Down,Operating,5/13/2000,Hershey,Pennsylvania,United States,Great Coasters International,51.1
+Lion / Yellow,Busch Gardens Tampa,Wood,Sit Down,Removed,6/18/1999,Tampa,Florida,United States,Great Coasters International,51
+Boardwalk Bullet,Kemah Boardwalk,Wood,Sit Down,Operating,8/31/2007,Kemah,Texas,United States,Martin & Vleminckx,51
+Mega Coaster,Hamanako Pal Pal,Steel,Sit Down,Operating,7/19/1997,Hamamatsu,Shizuoka,Japan,Togo,51
+Hoosier Hurricane,Indiana Beach,Wood,Sit Down,Operating,5/27/1994,Monticello,Indiana,United States,"Custom Coasters International, Inc.",51
+Crystal Wing,Happy Valley,Steel,Flying,Operating,7/9/2006,Chaoyang,Beijing,China,Bolliger & Mabillard,51
+Superman - Ultimate Flight,Six Flags Great America,Steel,Flying,Operating,5/3/2003,Gurnee,Illinois,United States,Bolliger & Mabillard,51
+Nighthawk,Carowinds,Steel,Flying,Operating,3/20/2004,Charlotte,North Carolina,United States,Vekoma,51
+Stealth,California's Great America,Steel,Flying,Relocated,4/1/2000,Santa Clara,California,United States,Vekoma,51
+Superman - Ultimate Flight,Six Flags Over Georgia,Steel,Flying,Operating,4/6/2002,Austell,Georgia,United States,Bolliger & Mabillard,51
+Superman - Ultimate Flight,Six Flags Great Adventure,Steel,Flying,Operating,4/17/2003,Jackson,New Jersey,United States,Bolliger & Mabillard,51
+Invincible Warriors,Fantawild Land,Steel,Sit Down,Operating,7/9/2022,Taizhou,Zhejiang,China,Vekoma,51
+Bat,Kings Island,Steel,Suspended,Operating,4/9/1993,Mason,Ohio,United States,Arrow Dynamics,51
+Freestyle,Cavallino Matto,Steel,Stand Up,Operating,7/18/2015,Castagneto Carducci,Tuscany,Italy,Togo,51
+SkyRider,Canada's Wonderland,Steel,Stand Up,Relocated,May-85,Vaughan,Ontario,Canada,Togo,51
+Canal Peak,Fancy City,Steel,Sit Down,Operating,11/6/2021,Yangzhou,Jiangsu,China,Zamperla,51
+Palindrome,Cotaland,Steel,Sit Down,Under Construction,2025,Austin,Texas,United States,Gerstlauer Amusement Rides GmbH,51
+Buddhism Boundless,Xiyou World of Adventure,Steel,Sit Down,Operating,2021,Huai'an,Jiangsu,China,"Hebei Zhongye Metallurgical Equipment Manufacturing Co., Ltd",51
+Roar,Six Flags America,Wood,Sit Down,Operating,5/2/1998,Upper Marlboro,Maryland,United States,Great Coasters International,50.5
+Roar,Six Flags Discovery Kingdom,Wood,Sit Down,Removed,5/14/1999,Vallejo,California,United States,Great Coasters International,50.5
+Time Traveler,Silver Dollar City,Steel,Sit Down,Operating,3/14/2018,Branson,Missouri,United States,Mack Rides GmbH & Co KG,50.3
+Euro-Star,Gorky Park,Steel,Inverted,Relocated,2008,Moscow City,Moscow City,Russia,Intamin Amusement Rides,50.2
+Euro-Star,Anapa Park Jungle,Steel,Inverted,Operating,8/8/2019,Anapa,Krasnodar,Russia,Intamin Amusement Rides,50.2
+Apocalypse the Ride,Six Flags Magic Mountain,Wood,Sit Down,Operating,5/23/2009,Valencia,California,United States,Great Coasters International,50.1
+Ultimate,Lightwater Valley,Steel,Sit Down,Removed,7/17/1991,North Yorkshire,England,United Kingdom,,50
+Dragon Mountain,Marineland Theme Park,Steel,Sit Down,Operating,1983,Niagara Falls,Ontario,Canada,Arrow Dynamics,50
+Hagrid's Magical Creatures Motorbike Adventure,Universal Studios Islands of Adventure,Steel,Sit Down,Operating,6/13/2019,Orlando,Florida,United States,Intamin Amusement Rides,50
+Expedition Everest,Walt Disney World - Disney's Animal Kingdom,Steel,Sit Down,Operating,4/7/2006,Lake Buena Vista,Florida,United States,Vekoma,50
+Cyclone Racer,Queens Park,Wood,Sit Down,Removed,5/30/1930,Long Beach,California,United States,,50
+Orient Express,Worlds of Fun,Steel,Sit Down,Removed,4/4/1980,Kansas City,Missouri,United States,Arrow Dynamics,50
+Viper,Six Flags Great America,Wood,Sit Down,Operating,4/29/1995,Gurnee,Illinois,United States,,50
+Predator,Six Flags Darien Lake,Wood,Sit Down,Operating,May-90,Darien Center,New York,United States,Dinn Corporation,50
+Comet,Hersheypark,Wood,Sit Down,Operating,5/30/1946,Hershey,Pennsylvania,United States,"Philadelphia Toboggan Coasters, Inc.",50
+Batwing,Six Flags America,Steel,Flying,Operating,6/16/2001,Upper Marlboro,Maryland,United States,Vekoma,50
+Firehawk,Kings Island,Steel,Flying,Removed,5/26/2007,Mason,Ohio,United States,Vekoma,50
+X-Flight,Geauga Lake & Wildwater Kingdom,Steel,Flying,Relocated,5/26/2001,Aurora,Ohio,United States,Vekoma,50
+Great White,Morey's Piers,Wood,Sit Down,Operating,1996,Wildwood,New Jersey,United States,"Custom Coasters International, Inc.",50
+Copperhead Strike,Carowinds,Steel,Sit Down,Operating,3/23/2019,Charlotte,North Carolina,United States,Mack Rides GmbH & Co KG,50
+Riddler Mindbender,Six Flags Over Georgia,Steel,Sit Down,Operating,3/31/1978,Austell,Georgia,United States,Schwarzkopf,50
+Bobs,Riverview Park,Wood,Sit Down,Removed,1924,Chicago,Illinois,United States,,50
+Dania Beach Hurricane,Boomers!,Wood,Sit Down,Removed,11/1/2000,Dania,Florida,United States,"Coaster Works, Inc.",50
+Wildcat,Hersheypark,Wood,Sit Down,Removed,5/26/1996,Hershey,Pennsylvania,United States,Great Coasters International,50
+Beach Coaster,Coaster Park,Wood,Sit Down,Removed,1928,Jacksonville Beach,Florida,United States,,50
+Tremors,Silverwood Theme Park,Wood,Sit Down,Operating,5/15/1999,Athol,Idaho,United States,"Custom Coasters International, Inc.",50
+Hurler,Carowinds,Wood,Sit Down,Operating,1994,Charlotte,North Carolina,United States,"International Coasters, Inc.",50
+Hurler,Kings Dominion,Wood,Sit Down,Removed,4/28/1994,Doswell,Virginia,United States,"International Coasters, Inc.",50
+Viper,Six Flags Darien Lake,Steel,Sit Down,Operating,May-82,Darien Center,New York,United States,Arrow Dynamics,50
+Mr. Twister,Elitch Gardens,Wood,Sit Down,Removed,1965,Denver,Colorado,United States,"Philadelphia Toboggan Coasters, Inc.",50
+High Roller,Valleyfair!,Wood,Sit Down,Operating,1976,Shakopee,Minnesota,United States,Opus Group,50
+Georgia Cyclone,Six Flags Over Georgia,Wood,Sit Down,Removed,Mar-90,Austell,Georgia,United States,Dinn Corporation,50
+Silver Comet,Niagara Amusement Park & Splash World,Wood,Sit Down,Operating,5/1/1999,Grand Island,New York,United States,"Custom Coasters International, Inc.",50
+Vampire,La Ronde,Steel,Inverted,Operating,5/18/2002,Montréal,Québec,Canada,Bolliger & Mabillard,50
+Anaconda,Kings Dominion,Steel,Sit Down,Operating,3/23/1991,Doswell,Virginia,United States,Arrow Dynamics,50
+Batman The Ride,Six Flags Great America,Steel,Inverted,Operating,5/9/1992,Gurnee,Illinois,United States,Bolliger & Mabillard,50
+Batman The Ride,Six Flags Magic Mountain,Steel,Inverted,Operating,3/26/1994,Valencia,California,United States,Bolliger & Mabillard,50
+Batman The Ride,Six Flags Over Georgia,Steel,Inverted,Operating,5/3/1997,Austell,Georgia,United States,Bolliger & Mabillard,50
+Batman The Ride,Six Flags Over Texas,Steel,Inverted,Operating,5/26/1999,Arlington,Texas,United States,Bolliger & Mabillard,50
+Batman The Ride,Six Flags Great Adventure,Steel,Inverted,Operating,5/1/1993,Jackson,New Jersey,United States,Bolliger & Mabillard,50
+Batman The Ride,Six Flags St. Louis,Steel,Inverted,Operating,4/22/1995,Eureka,Missouri,United States,Bolliger & Mabillard,50
+Batman: The Ride,Six Flags New Orleans,Steel,Inverted,Relocated,4/12/2003,New Orleans,Louisiana,United States,Bolliger & Mabillard,50
+Gambit,Thrill Valley,Steel,Inverted,Relocated,4/23/1995,Gotemba,Shizuoka,Japan,Bolliger & Mabillard,50
+Goliath,Six Flags Fiesta Texas,Steel,Inverted,Operating,4/18/2008,San Antonio,Texas,United States,Bolliger & Mabillard,50
+Classic Coaster,Washington State Fair,Wood,Sit Down,Operating,1935,Puyallup,Washington,United States,,50
+Swamp Fox,Family Kingdom Amusement Park,Wood,Sit Down,Operating,1966,Myrtle Beach,South Carolina,United States,"Philadelphia Toboggan Coasters, Inc.",50
