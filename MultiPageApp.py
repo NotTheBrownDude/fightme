@@ -9,9 +9,9 @@ def page_home():
     st.write("Page 2- Growth rates")
     st.write("Page 3- World population percentage")
     st.write("Page 4- Population desities pie chart")
-    st.image(r"C:\temp\whats-world-population.jpg")
+    st.image(r"whats-world-population.jpg")
     
-DATA_URL = r"C:\temp\world_population.csv"
+DATA_URL = r"world_population.csv"
 
 #@st.cache_data
 def load_data(nrows):
